@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.10.27)  12 DEC 2010 12:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.10.27)  12 DEC 2010 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,31 +519,31 @@ Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)            on input line 33.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 34.
+(scrreprt)            on input line 38.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 35.
+(scrreprt)            on input line 39.
  [3
 
 ]
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 36.
+(scrreprt)            on input line 40.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 37.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 51.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 52.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 54.
+(scrreprt)            on input line 41.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 55.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 56.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 58.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 59.
 )
 \tf@toc=\write4
 \openout4 = `einBlatt.toc'.
@@ -807,15 +807,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 544--551
 
 ]
 Kapitel 3.
-) (./einBildungen/einBildungen.tex [26
+(./einRichtungen/breiteFertigkeiten/breiteFertigkeiten.tex [26
 
-] [27
+]))
+(./einBildungen/einBildungen.tex [27] [28
 
 ]
 Kapitel 4.
-) (./einGriffe/einGriffe.tex [28
+) (./einGriffe/einGriffe.tex [29
 
-] [29
+] [30
 
 ]
 Kapitel 5.
@@ -827,13 +828,13 @@ Overfull \hbox (32.33632pt too wide) in paragraph at lines 3--6
  []
 
 ) (./einGriffe/nachkarten/nachkarten.tex)
-(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [30
+(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [31
 
 ])
 (./einGriffe/dieKartenaufdenTischlegen/dieKartenaufdenTischlegen.tex)
 (./einGriffe/einAssimAermelhaben/einAssimAermelhaben.tex)
 (./einGriffe/alleKarteninderHandhaben/alleKarteninderHandhaben.tex)
-(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [31])
+(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [32])
 (./einGriffe/mitoffenenKartenspielen/mitoffenenKartenspielen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
@@ -845,7 +846,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
  []
 
 ) (./einGriffe/GnadederGoetterZornderGoetter/GnadederGoetterZornderGoetter.tex
-[32] [33])) (./zumSchluss/zumSchluss.tex [34] [35
+[33] [34])) (./zumSchluss/zumSchluss.tex [35] [36
 
 ]
 Kapitel 6.
@@ -855,9 +856,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
 
-[36
+[37
 
-] [37
+] [38
 
 ]
 Kapitel 7.
@@ -867,13 +868,13 @@ Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--34
 mmons.org/licenses/by-nc-sa/3.0/de/
  []
 
-[38
+[39
 
 ] (./einBlatt.lot)
 \tf@lot=\write5
 \openout5 = `einBlatt.lot'.
 
- [39
+ [40
 
 ] (./einBlatt.aux)
 
@@ -881,10 +882,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5349 strings out of 495021
- 82394 string characters out of 1181034
- 172063 words of memory out of 3000000
- 8244 multiletter control sequences out of 15000+50000
+ 5365 strings out of 495021
+ 82865 string characters out of 1181034
+ 171063 words of memory out of 3000000
+ 8251 multiletter control sequences out of 15000+50000
  9728 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,8n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -895,9 +896,9 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on einBlatt.pdf (39 pages, 218819 bytes).
+Output written on einBlatt.pdf (40 pages, 223186 bytes).
 PDF statistics:
- 566 PDF objects out of 1000 (max. 8388607)
- 162 named destinations out of 1000 (max. 500000)
- 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 591 PDF objects out of 1000 (max. 8388607)
+ 167 named destinations out of 1000 (max. 500000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

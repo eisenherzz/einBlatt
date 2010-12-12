@@ -31,25 +31,29 @@
 \contentsline {subsubsection}{Konfliktende}{24}{section*.9}
 \contentsline {part}{\numberline {III}einRichtungen}{25}{part.3}
 \contentsline {chapter}{\numberline {3}einRichtungen}{26}{chapter.3}
-\contentsline {part}{\numberline {IV}einBildungen}{27}{part.4}
-\contentsline {chapter}{\numberline {4}einBildungen}{28}{chapter.4}
-\contentsline {part}{\numberline {V}einGriffe}{29}{part.5}
-\contentsline {chapter}{\numberline {5}einGriffe}{30}{chapter.5}
-\contentsline {section}{\numberline {5.1}Sich in die Karten schauen lassen}{30}{section.5.1}
-\contentsline {section}{\numberline {5.2}Die Karten zinken}{30}{section.5.2}
-\contentsline {section}{\numberline {5.3}Nachkarten}{30}{section.5.3}
-\contentsline {section}{\numberline {5.4}Die Karten werden neu gemischt}{31}{section.5.4}
-\contentsline {section}{\numberline {5.5}Die Karten auf den Tisch legen}{31}{section.5.5}
-\contentsline {section}{\numberline {5.6}Ein Ass im \IeC {\"A}rmel haben}{31}{section.5.6}
-\contentsline {section}{\numberline {5.7}Alle Karten in der Hand haben}{32}{section.5.7}
-\contentsline {section}{\numberline {5.8}Alles auf eine Karte setzen}{32}{section.5.8}
-\contentsline {section}{\numberline {5.9}Mit offenen Karten spielen}{32}{section.5.9}
-\contentsline {section}{\numberline {5.10}Gnade der G\IeC {\"o}tter / Zorn der G\IeC {\"o}tter (H\IeC {\"O}L)}{32}{section.5.10}
-\contentsline {subsection}{\numberline {5.10.1}Sessionvorbereitung}{32}{subsection.5.10.1}
-\contentsline {subsection}{\numberline {5.10.2}Im Spiel}{33}{subsection.5.10.2}
-\contentsline {subsection}{\numberline {5.10.3}Und was macht man damit?}{33}{subsection.5.10.3}
-\contentsline {part}{\numberline {VI}Zum Schluss}{35}{part.6}
-\contentsline {chapter}{\numberline {6}Zum Schluss}{36}{chapter.6}
-\contentsline {section}{\numberline {6.1}Danksagungen}{36}{section.6.1}
-\contentsline {part}{\numberline {VII}Lizenzinformation}{37}{part.7}
-\contentsline {chapter}{\numberline {7}Lizenzinformation}{38}{chapter.7}
+\contentsline {section}{\numberline {3.1}Breite Fertigkeiten}{26}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Problem:}{26}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}In der Charaktererschaffung:}{26}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}In Proben:}{27}{subsection.3.1.3}
+\contentsline {part}{\numberline {IV}einBildungen}{28}{part.4}
+\contentsline {chapter}{\numberline {4}einBildungen}{29}{chapter.4}
+\contentsline {part}{\numberline {V}einGriffe}{30}{part.5}
+\contentsline {chapter}{\numberline {5}einGriffe}{31}{chapter.5}
+\contentsline {section}{\numberline {5.1}Sich in die Karten schauen lassen}{31}{section.5.1}
+\contentsline {section}{\numberline {5.2}Die Karten zinken}{31}{section.5.2}
+\contentsline {section}{\numberline {5.3}Nachkarten}{31}{section.5.3}
+\contentsline {section}{\numberline {5.4}Die Karten werden neu gemischt}{32}{section.5.4}
+\contentsline {section}{\numberline {5.5}Die Karten auf den Tisch legen}{32}{section.5.5}
+\contentsline {section}{\numberline {5.6}Ein Ass im \IeC {\"A}rmel haben}{32}{section.5.6}
+\contentsline {section}{\numberline {5.7}Alle Karten in der Hand haben}{33}{section.5.7}
+\contentsline {section}{\numberline {5.8}Alles auf eine Karte setzen}{33}{section.5.8}
+\contentsline {section}{\numberline {5.9}Mit offenen Karten spielen}{33}{section.5.9}
+\contentsline {section}{\numberline {5.10}Gnade der G\IeC {\"o}tter / Zorn der G\IeC {\"o}tter (H\IeC {\"O}L)}{33}{section.5.10}
+\contentsline {subsection}{\numberline {5.10.1}Sessionvorbereitung}{33}{subsection.5.10.1}
+\contentsline {subsection}{\numberline {5.10.2}Im Spiel}{34}{subsection.5.10.2}
+\contentsline {subsection}{\numberline {5.10.3}Und was macht man damit?}{34}{subsection.5.10.3}
+\contentsline {part}{\numberline {VI}Zum Schluss}{36}{part.6}
+\contentsline {chapter}{\numberline {6}Zum Schluss}{37}{chapter.6}
+\contentsline {section}{\numberline {6.1}Danksagungen}{37}{section.6.1}
+\contentsline {part}{\numberline {VII}Lizenzinformation}{38}{part.7}
+\contentsline {chapter}{\numberline {7}Lizenzinformation}{39}{chapter.7}
