@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.10.27)  12 DEC 2010 13:10
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.10.25)  12 DEC 2010 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -507,25 +507,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 9.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 10.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 32.
+(scrreprt)            on input line 11.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 33.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 38.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 39.
+(scrreprt)            on input line 34.
  [3
 
 ]
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 39.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 40.
@@ -534,16 +531,19 @@ Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)            on input line 41.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 55.
+(scrreprt)            on input line 42.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 56.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 58.
+(scrreprt)            on input line 57.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 59.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 60.
 )
 \tf@toc=\write4
 \openout4 = `einBlatt.toc'.
@@ -565,34 +565,35 @@ LaTeX Warning: Reference `einVerlies' on page 6 undefined on input line 11.
 [6
 
 ]
-Overfull \hbox (21.35704pt too wide) in paragraph at lines 19--22
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
+ (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+
+Overfull \hbox (21.35704pt too wide) in paragraph at lines 33--36
 \OT1/cmr/m/n/10.95 Stimmt. Des-halb ist ein-Blatt euch ein Internet-Projekt. De
 r-zeit wird es auf www.eisenherzz.de
  []
 
-) (./einRegelblatt/einRegelblatt.tex
-Underfull \hbox (badness 10000) in paragraph at lines 29--2
+[7]) (./einRegelblatt/einRegelblatt.tex
+Underfull \hbox (badness 10000) in paragraph at lines 43--2
 
  []
 
-[7] [8
+[8] [9
 
 ]
 Kapitel 2.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 17--21
 
  []
 
-[9
+[10
 
-] [10]
+] [11]
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 66.
  (/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -604,17 +605,17 @@ Overfull \hbox (11.21497pt too wide) in paragraph at lines 62--75
 [][] 
  []
 
-[11]) (./einRegelblattBeispiele/einRegelblattBeispiele.tex
+[12]) (./einRegelblattBeispiele/einRegelblattBeispiele.tex
 Underfull \hbox (badness 10000) in paragraph at lines 20--26
 
  []
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
 
-[13] [14]
+[14] [15]
 Overfull \hbox (5.29123pt too wide) in paragraph at lines 163--164
 \OT1/cmr/m/n/10.95 ren starb, des-sen Lie-der aber noch heu-
  []
@@ -649,7 +650,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--204
 
  []
 
-[15
+[16
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 213--217
@@ -671,7 +672,7 @@ Overfull \hbox (12.427pt too wide) in paragraph at lines 226--227
 [][]\OT1/cmr/m/n/10.95 Dein Feind will ich je-den-falls nicht sein...\ 
  []
 
-[16
+[17
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 246--250
@@ -684,9 +685,9 @@ Overfull \hbox (9.05533pt too wide) in paragraph at lines 251--252
 d ih-res []Wahr-neh-mung\-Attributwertes
  []
 
-[17
+[18
 
-] [18]
+] [19]
 Overfull \hbox (28.30151pt too wide) in paragraph at lines 269--270
 \OT1/cmr/m/n/10.95 verf[]ugt []uber die Fer-tig-keit Ge-wandt-heit:Klettern,
  []
@@ -723,11 +724,11 @@ Overfull \hbox (10.30098pt too wide) in paragraph at lines 331--332
 
 
 Overfull \hbox (0.63744pt too wide) in paragraph at lines 331--332
-\OT1/cmr/m/n/10.95 da-von ab-zie-hen (sie-he Ta-bel-le []2.1[], Sei-te []10[]).
+\OT1/cmr/m/n/10.95 da-von ab-zie-hen (sie-he Ta-bel-le []2.1[], Sei-te []11[]).
 
  []
 
-[19
+[20
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 384--388
@@ -754,7 +755,7 @@ Overfull \hbox (7.90701pt too wide) in paragraph at lines 393--394
 \OT1/cmr/m/n/10.95 Fels\ nat[]urlich ein-set-zen darf. Fran-cis schl[]agt
  []
 
-[20]
+[21]
 Overfull \hbox (16.02832pt too wide) in paragraph at lines 431--432
 \OT1/cmr/m/n/10.95 cis aber den h[]oher-en At-tri-buts-wert hat, kommt
  []
@@ -769,7 +770,7 @@ Overfull \hbox (8.85617pt too wide) in paragraph at lines 445--446
 [][]\OT1/cmr/m/n/10.95 Klar,\ ant-wor-tet Fran-cis Spie-ler, []ich neh-
  []
 
-[21]
+[22]
 Overfull \hbox (0.66791pt too wide) in paragraph at lines 447--448
 []\OT1/cmr/m/n/10.95 Francis erh[]alt einen Punkt, der ers-te Jun-
  []
@@ -789,34 +790,34 @@ Overfull \hbox (7.77324pt too wide) in paragraph at lines 459--460
 \OT1/cmr/m/n/10.95 (und auch die nur, wenn kei-ner sei-ner []Freun-
  []
 
-[22]
+[23]
 Overfull \hbox (3.37497pt too wide) in paragraph at lines 517--518
 []\OT1/cmr/m/n/10.95 So kommt fol-gen-des End-er-ge-be-nis zu-stan-
  []
 
-[23
+[24
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 544--551
 
  []
 
-) (./einRichtungen/einRichtungen.tex [24
+) (./einRichtungen/einRichtungen.tex [25
 
-] [25
+] [26
 
 ]
 Kapitel 3.
-(./einRichtungen/breiteFertigkeiten/breiteFertigkeiten.tex [26
+(./einRichtungen/breiteFertigkeiten/breiteFertigkeiten.tex [27
 
 ]))
-(./einBildungen/einBildungen.tex [27] [28
+(./einBildungen/einBildungen.tex [28] [29
 
 ]
 Kapitel 4.
-) (./einGriffe/einGriffe.tex [29
+) (./einGriffe/einGriffe.tex [30
 
-] [30
+] [31
 
 ]
 Kapitel 5.
@@ -828,13 +829,13 @@ Overfull \hbox (32.33632pt too wide) in paragraph at lines 3--6
  []
 
 ) (./einGriffe/nachkarten/nachkarten.tex)
-(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [31
+(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [32
 
 ])
 (./einGriffe/dieKartenaufdenTischlegen/dieKartenaufdenTischlegen.tex)
 (./einGriffe/einAssimAermelhaben/einAssimAermelhaben.tex)
 (./einGriffe/alleKarteninderHandhaben/alleKarteninderHandhaben.tex)
-(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [32])
+(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [33])
 (./einGriffe/mitoffenenKartenspielen/mitoffenenKartenspielen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
@@ -846,7 +847,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
  []
 
 ) (./einGriffe/GnadederGoetterZornderGoetter/GnadederGoetterZornderGoetter.tex
-[33] [34])) (./zumSchluss/zumSchluss.tex [35] [36
+[34] [35])) (./zumSchluss/zumSchluss.tex [36] [37
 
 ]
 Kapitel 6.
@@ -856,9 +857,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
 
-[37
+[38
 
-] [38
+] [39
 
 ]
 Kapitel 7.
@@ -868,13 +869,13 @@ Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--34
 mmons.org/licenses/by-nc-sa/3.0/de/
  []
 
-[39
+[40
 
 ] (./einBlatt.lot)
 \tf@lot=\write5
 \openout5 = `einBlatt.lot'.
 
- [40
+ [41
 
 ] (./einBlatt.aux)
 
@@ -882,10 +883,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5365 strings out of 495021
- 82865 string characters out of 1181034
- 171063 words of memory out of 3000000
- 8251 multiletter control sequences out of 15000+50000
+ 5371 strings out of 495021
+ 82917 string characters out of 1181034
+ 172063 words of memory out of 3000000
+ 8252 multiletter control sequences out of 15000+50000
  9728 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,8n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -896,9 +897,9 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on einBlatt.pdf (40 pages, 223186 bytes).
+Output written on einBlatt.pdf (41 pages, 226527 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 167 named destinations out of 1000 (max. 500000)
- 409 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 604 PDF objects out of 1000 (max. 8388607)
+ 172 named destinations out of 1000 (max. 500000)
+ 417 words of extra memory for PDF output out of 10000 (max. 10000000)
 
