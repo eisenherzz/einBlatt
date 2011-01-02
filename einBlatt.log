@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.10.25)  12 DEC 2010 19:42
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  2 JAN 2011 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -373,7 +373,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )
-(/etc/texmf/tex/latex/config/hyperref.cfg
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 (/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
@@ -522,28 +522,28 @@ Class scrreprt Info: You've told me to use the font selection of the element
 ]
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 39.
+(scrreprt)            on input line 43.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 40.
+(scrreprt)            on input line 44.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 41.
+(scrreprt)            on input line 45.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 42.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 56.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 57.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 59.
+(scrreprt)            on input line 46.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 60.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 61.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 63.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 64.
 )
 \tf@toc=\write4
 \openout4 = `einBlatt.toc'.
@@ -810,14 +810,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 544--551
 Kapitel 3.
 (./einRichtungen/breiteFertigkeiten/breiteFertigkeiten.tex [27
 
-]))
-(./einBildungen/einBildungen.tex [28] [29
+])
+(./einRichtungen/ErfahrungspunktePowergamer/ErfahrungspunktePowergamer.tex
+[28])) (./einBildungen/einBildungen.tex [29] [30
 
 ]
 Kapitel 4.
-) (./einGriffe/einGriffe.tex [30
+) (./einGriffe/einGriffe.tex [31
 
-] [31
+] [32
 
 ]
 Kapitel 5.
@@ -829,13 +830,13 @@ Overfull \hbox (32.33632pt too wide) in paragraph at lines 3--6
  []
 
 ) (./einGriffe/nachkarten/nachkarten.tex)
-(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [32
+(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [33
 
 ])
 (./einGriffe/dieKartenaufdenTischlegen/dieKartenaufdenTischlegen.tex)
 (./einGriffe/einAssimAermelhaben/einAssimAermelhaben.tex)
 (./einGriffe/alleKarteninderHandhaben/alleKarteninderHandhaben.tex)
-(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [33])
+(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [34])
 (./einGriffe/mitoffenenKartenspielen/mitoffenenKartenspielen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
@@ -847,7 +848,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
  []
 
 ) (./einGriffe/GnadederGoetterZornderGoetter/GnadederGoetterZornderGoetter.tex
-[34] [35])) (./zumSchluss/zumSchluss.tex [36] [37
+[35] [36])) (./zumSchluss/zumSchluss.tex [37] [38
 
 ]
 Kapitel 6.
@@ -857,9 +858,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
 
-[38
+[39
 
-] [39
+] [40
 
 ]
 Kapitel 7.
@@ -869,13 +870,13 @@ Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--34
 mmons.org/licenses/by-nc-sa/3.0/de/
  []
 
-[40
+[41
 
 ] (./einBlatt.lot)
 \tf@lot=\write5
 \openout5 = `einBlatt.lot'.
 
- [41
+ [42
 
 ] (./einBlatt.aux)
 
@@ -883,10 +884,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5371 strings out of 495021
- 82917 string characters out of 1181034
+ 5386 strings out of 495021
+ 83494 string characters out of 1181036
  172063 words of memory out of 3000000
- 8252 multiletter control sequences out of 15000+50000
+ 8259 multiletter control sequences out of 15000+50000
  9728 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,8n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -897,9 +898,9 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on einBlatt.pdf (41 pages, 226527 bytes).
+Output written on einBlatt.pdf (42 pages, 231510 bytes).
 PDF statistics:
- 604 PDF objects out of 1000 (max. 8388607)
- 172 named destinations out of 1000 (max. 500000)
- 417 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 629 PDF objects out of 1000 (max. 8388607)
+ 177 named destinations out of 1000 (max. 500000)
+ 449 words of extra memory for PDF output out of 10000 (max. 10000000)
 
