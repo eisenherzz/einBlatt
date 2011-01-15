@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  2 JAN 2011 12:14
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  15 JAN 2011 23:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,9 +522,6 @@ Class scrreprt Info: You've told me to use the font selection of the element
 ]
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 43.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 44.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
@@ -534,16 +531,19 @@ Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)            on input line 46.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 60.
+(scrreprt)            on input line 47.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 61.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 63.
+(scrreprt)            on input line 62.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 64.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 65.
 )
 \tf@toc=\write4
 \openout4 = `einBlatt.toc'.
@@ -808,17 +808,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 544--551
 
 ]
 Kapitel 3.
-(./einRichtungen/breiteFertigkeiten/breiteFertigkeiten.tex [27
 
-])
+(./einRichtungen/StandardPunkteverteilungfuerAttribute/StandardPunkteverteilung
+fuerAttribute.tex
+Overfull \hbox (10.70763pt too wide) in paragraph at lines 23--36
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--36
+
+ []
+
+[27
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 37--50
+
+ []
+
+) (./einRichtungen/breiteFertigkeiten/breiteFertigkeiten.tex [28])
 (./einRichtungen/ErfahrungspunktePowergamer/ErfahrungspunktePowergamer.tex
-[28])) (./einBildungen/einBildungen.tex [29] [30
+[29])) (./einBildungen/einBildungen.tex [30] [31
 
 ]
 Kapitel 4.
-) (./einGriffe/einGriffe.tex [31
+) (./einGriffe/einGriffe.tex [32
 
-] [32
+] [33
 
 ]
 Kapitel 5.
@@ -830,13 +847,13 @@ Overfull \hbox (32.33632pt too wide) in paragraph at lines 3--6
  []
 
 ) (./einGriffe/nachkarten/nachkarten.tex)
-(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [33
+(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [34
 
 ])
 (./einGriffe/dieKartenaufdenTischlegen/dieKartenaufdenTischlegen.tex)
 (./einGriffe/einAssimAermelhaben/einAssimAermelhaben.tex)
 (./einGriffe/alleKarteninderHandhaben/alleKarteninderHandhaben.tex)
-(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [34])
+(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [35])
 (./einGriffe/mitoffenenKartenspielen/mitoffenenKartenspielen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
@@ -848,7 +865,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
  []
 
 ) (./einGriffe/GnadederGoetterZornderGoetter/GnadederGoetterZornderGoetter.tex
-[35] [36])) (./zumSchluss/zumSchluss.tex [37] [38
+[36] [37])) (./zumSchluss/zumSchluss.tex [38] [39
 
 ]
 Kapitel 6.
@@ -858,9 +875,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
 
-[39
+[40
 
-] [40
+] [41
 
 ]
 Kapitel 7.
@@ -870,13 +887,13 @@ Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--34
 mmons.org/licenses/by-nc-sa/3.0/de/
  []
 
-[41
+[42
 
 ] (./einBlatt.lot)
 \tf@lot=\write5
 \openout5 = `einBlatt.lot'.
 
- [42
+ [43
 
 ] (./einBlatt.aux)
 
@@ -884,13 +901,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5386 strings out of 495021
- 83494 string characters out of 1181036
+ 5399 strings out of 495021
+ 84118 string characters out of 1181036
  172063 words of memory out of 3000000
- 8259 multiletter control sequences out of 15000+50000
+ 8263 multiletter control sequences out of 15000+50000
  9728 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 43i,8n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/
@@ -898,9 +915,9 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on einBlatt.pdf (42 pages, 231510 bytes).
+Output written on einBlatt.pdf (43 pages, 237310 bytes).
 PDF statistics:
- 629 PDF objects out of 1000 (max. 8388607)
- 177 named destinations out of 1000 (max. 500000)
- 449 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 647 PDF objects out of 1000 (max. 8388607)
+ 182 named destinations out of 1000 (max. 500000)
+ 457 words of extra memory for PDF output out of 10000 (max. 10000000)
 
