@@ -1,78 +1,79 @@
-\contentsline {part}{\numberline {I}Nur Der Anfang}{6}{part.1}
-\contentsline {chapter}{\numberline {1}Nur der Anfang}{7}{chapter.1}
-\contentsline {section}{\numberline {1.1}Was ist dieses \active@dq \dq@prtct {`}einBlatt\active@dq \dq@prtct {'}?}{7}{section.1.1}
-\contentsline {section}{\numberline {1.2}Ist einBlatt also ein (besonders schlecht sortiertes) Rollenspiel?}{7}{section.1.2}
-\contentsline {section}{\numberline {1.3}Also ist einBlatt ein generisches Rollenspiel?}{7}{section.1.3}
-\contentsline {section}{\numberline {1.4}Warum setzt einBlatt auf Karten statt auf W\IeC {\"u}rfel?}{8}{section.1.4}
-\contentsline {section}{\numberline {1.5}Mit diesem halben Dutzend Regelmodulen kommt man aber nicht weit!}{8}{section.1.5}
-\contentsline {section}{\numberline {1.6}Und was ist dann dieses Heftchen?}{9}{section.1.6}
-\contentsline {section}{\numberline {1.7}Und jetzt?}{9}{section.1.7}
-\contentsline {part}{\numberline {II}einRegelblatt}{10}{part.2}
-\contentsline {chapter}{\numberline {2}einRegelblatt}{11}{chapter.2}
-\contentsline {section}{\numberline {2.1}Charaktererschaffung}{11}{section.2.1}
-\contentsline {section}{\numberline {2.2}Zufall}{11}{section.2.2}
-\contentsline {section}{\numberline {2.3}Proben}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Allgemeiner Ablauf}{11}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Konfliktvorbereitung: Handkarten ziehen}{12}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Konfliktabwicklung}{12}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Konfliktende}{13}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Passen}{13}{subsection.2.3.5}
-\contentsline {subsection}{\numberline {2.3.6}einSchr\IeC {\"a}nkungen}{13}{subsection.2.3.6}
-\contentsline {section}{\numberline {2.4}Erl\IeC {\"a}uterungen und Beispiele zu einRegelBlatt}{14}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Charaktererschaffung}{14}{subsection.2.4.1}
-\contentsline {subsubsection}{Attribute}{14}{section*.2}
-\contentsline {subsubsection}{Fertigkeiten}{15}{section*.3}
-\contentsline {subsubsection}{Charaktererschaffung von A bis Z}{16}{section*.4}
-\contentsline {subsection}{\numberline {2.4.2}Zufall}{19}{subsection.2.4.2}
-\contentsline {subsubsection}{G\IeC {\"u}ltigkeit von Attributsfarben}{19}{section*.5}
-\contentsline {subsubsection}{Kartenvergleich}{19}{section*.6}
-\contentsline {subsection}{\numberline {2.4.3}Proben}{21}{subsection.2.4.3}
-\contentsline {subsubsection}{Einfacher Fall: 1 gegen 1}{21}{section*.7}
-\contentsline {subsubsection}{Etwas komplizierter: Konflikte mit mehreren Beteiligten}{22}{section*.8}
-\contentsline {subsubsection}{Konfliktende}{26}{section*.9}
-\contentsline {part}{\numberline {III}einRichtungen}{27}{part.3}
-\contentsline {chapter}{\numberline {3}einRichtungen}{28}{chapter.3}
-\contentsline {section}{\numberline {3.1}Standard Punkteverteilung f\IeC {\"u}r Attribute}{28}{section.3.1}
-\contentsline {section}{\numberline {3.2}Breite Fertigkeiten}{29}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Problem:}{29}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}In der Charaktererschaffung:}{30}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}In Proben:}{30}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Erfahrungspunkte f\IeC {\"u}r Powergamer}{30}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Erlangen von Erfahrungspunkten}{30}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Einsetzen von Erfahrungspunkten}{31}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Ausgeben von Erfahrungspunkten}{31}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Zus\IeC {\"a}tzliche Eigenschaft: Selbstbewusstsein}{31}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Charaktererschaffung:}{31}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Zu Spielbeginn:}{32}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Selbstbewusstsein gewinnen:}{32}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Selbstbewusst handeln:}{32}{subsection.3.4.4}
-\contentsline {section}{\numberline {3.5}Anreizsystem (Attribute)}{33}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Zweck}{33}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Regelanpassungen:}{33}{subsection.3.5.2}
-\contentsline {subsubsection}{Allgemeine Regeln}{33}{section*.10}
-\contentsline {subsubsection}{Charaktererschaffung}{33}{section*.11}
-\contentsline {subsubsection}{Spielvorbereitung}{33}{section*.12}
-\contentsline {subsubsection}{Im Spiel}{33}{section*.13}
-\contentsline {section}{\numberline {3.6}Lehren ziehen}{34}{section.3.6}
-\contentsline {part}{\numberline {IV}einBildungen}{35}{part.4}
-\contentsline {chapter}{\numberline {4}einBildungen}{36}{chapter.4}
-\contentsline {part}{\numberline {V}einGriffe}{37}{part.5}
-\contentsline {chapter}{\numberline {5}einGriffe}{38}{chapter.5}
-\contentsline {section}{\numberline {5.1}Sich in die Karten schauen lassen}{38}{section.5.1}
-\contentsline {section}{\numberline {5.2}Die Karten zinken}{38}{section.5.2}
-\contentsline {section}{\numberline {5.3}Nachkarten}{38}{section.5.3}
-\contentsline {section}{\numberline {5.4}Die Karten werden neu gemischt}{39}{section.5.4}
-\contentsline {section}{\numberline {5.5}Die Karten auf den Tisch legen}{39}{section.5.5}
-\contentsline {section}{\numberline {5.6}Ein Ass im \IeC {\"A}rmel haben}{39}{section.5.6}
-\contentsline {section}{\numberline {5.7}Alle Karten in der Hand haben}{40}{section.5.7}
-\contentsline {section}{\numberline {5.8}Alles auf eine Karte setzen}{40}{section.5.8}
-\contentsline {section}{\numberline {5.9}Mit offenen Karten spielen}{40}{section.5.9}
-\contentsline {section}{\numberline {5.10}Gnade der G\IeC {\"o}tter / Zorn der G\IeC {\"o}tter (H\IeC {\"O}L)}{40}{section.5.10}
-\contentsline {subsection}{\numberline {5.10.1}Sessionvorbereitung}{40}{subsection.5.10.1}
-\contentsline {subsection}{\numberline {5.10.2}Im Spiel}{41}{subsection.5.10.2}
-\contentsline {subsection}{\numberline {5.10.3}Und was macht man damit?}{41}{subsection.5.10.3}
-\contentsline {part}{\numberline {VI}Zum Schluss}{43}{part.6}
-\contentsline {chapter}{\numberline {6}Zum Schluss}{44}{chapter.6}
-\contentsline {section}{\numberline {6.1}Danksagungen}{44}{section.6.1}
-\contentsline {part}{\numberline {VII}Lizenzinformation}{45}{part.7}
-\contentsline {chapter}{\numberline {7}Lizenzinformation}{46}{chapter.7}
+\contentsline {part}{\numberline {I}Nur Der Anfang}{5}{part.1}
+\contentsline {chapter}{\numberline {1}Nur der Anfang}{6}{chapter.1}
+\contentsline {section}{\numberline {1.1}Was ist dieses \active@dq \dq@prtct {`}einBlatt\active@dq \dq@prtct {'}?}{6}{section.1.1}
+\contentsline {section}{\numberline {1.2}Ist einBlatt also ein (besonders schlecht sortiertes) Rollenspiel?}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}Also ist einBlatt ein generisches Rollenspiel?}{6}{section.1.3}
+\contentsline {section}{\numberline {1.4}Warum setzt einBlatt auf Karten statt auf W\IeC {\"u}rfel?}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Mit diesem halben Dutzend Regelmodulen kommt man aber nicht weit!}{7}{section.1.5}
+\contentsline {section}{\numberline {1.6}Und was ist dann dieses Heftchen?}{8}{section.1.6}
+\contentsline {section}{\numberline {1.7}Und jetzt?}{8}{section.1.7}
+\contentsline {part}{\numberline {II}einRegelblatt}{9}{part.2}
+\contentsline {chapter}{\numberline {2}einRegelblatt}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Charaktererschaffung}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Zufall}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}Proben}{10}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Allgemeiner Ablauf}{10}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Konfliktvorbereitung: Handkarten ziehen}{11}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Konfliktabwicklung}{11}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Konfliktende}{12}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Passen}{12}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}einSchr\IeC {\"a}nkungen}{12}{subsection.2.3.6}
+\contentsline {section}{\numberline {2.4}Erl\IeC {\"a}uterungen und Beispiele zu einRegelBlatt}{13}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Charaktererschaffung}{13}{subsection.2.4.1}
+\contentsline {subsubsection}{Attribute}{13}{section*.2}
+\contentsline {subsubsection}{Fertigkeiten}{14}{section*.3}
+\contentsline {subsubsection}{Charaktererschaffung von A bis Z}{15}{section*.4}
+\contentsline {subsection}{\numberline {2.4.2}Zufall}{18}{subsection.2.4.2}
+\contentsline {subsubsection}{G\IeC {\"u}ltigkeit von Attributsfarben}{18}{section*.5}
+\contentsline {subsubsection}{Kartenvergleich}{18}{section*.6}
+\contentsline {subsection}{\numberline {2.4.3}Proben}{20}{subsection.2.4.3}
+\contentsline {subsubsection}{Einfacher Fall: 1 gegen 1}{20}{section*.7}
+\contentsline {subsubsection}{Etwas komplizierter: Konflikte mit mehreren Beteiligten}{21}{section*.8}
+\contentsline {subsubsection}{Konfliktende}{25}{section*.9}
+\contentsline {part}{\numberline {III}einBildungen}{26}{part.3}
+\contentsline {chapter}{\numberline {3}einBildungen}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}einVerlies - Im Dungeon gibt es keine Manik\IeC {\"u}re}{27}{section.3.1}
+\contentsline {part}{\numberline {IV}einRichtungen}{28}{part.4}
+\contentsline {chapter}{\numberline {4}einRichtungen}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Standard Punkteverteilung f\IeC {\"u}r Attribute}{29}{section.4.1}
+\contentsline {section}{\numberline {4.2}Breite Fertigkeiten}{30}{section.4.2}
+\contentsline {subsubsection}{Problem:}{30}{section*.10}
+\contentsline {subsubsection}{In der Charaktererschaffung:}{31}{section*.11}
+\contentsline {subsubsection}{In Proben:}{31}{section*.12}
+\contentsline {section}{\numberline {4.3}Erfahrungspunkte f\IeC {\"u}r Powergamer}{31}{section.4.3}
+\contentsline {subsubsection}{Erlangen von Erfahrungspunkten}{31}{section*.13}
+\contentsline {subsubsection}{Einsetzen von Erfahrungspunkten}{32}{section*.14}
+\contentsline {subsubsection}{Ausgeben von Erfahrungspunkten}{32}{section*.15}
+\contentsline {section}{\numberline {4.4}Zus\IeC {\"a}tzliche Eigenschaft: Selbstbewusstsein}{32}{section.4.4}
+\contentsline {subsubsection}{Charaktererschaffung:}{32}{section*.16}
+\contentsline {subsubsection}{Zu Spielbeginn:}{33}{section*.17}
+\contentsline {subsubsection}{Selbstbewusstsein gewinnen:}{33}{section*.18}
+\contentsline {subsubsection}{Selbstbewusst handeln:}{33}{section*.19}
+\contentsline {section}{\numberline {4.5}Anreizsystem (Attribute)}{34}{section.4.5}
+\contentsline {subsubsection}{Zweck}{34}{section*.20}
+\contentsline {subsubsection}{Regelanpassungen:}{34}{section*.21}
+\contentsline {subsubsection}{Allgemeine Regeln}{34}{section*.22}
+\contentsline {subsubsection}{Charaktererschaffung}{34}{section*.23}
+\contentsline {subsubsection}{Spielvorbereitung}{34}{section*.24}
+\contentsline {subsubsection}{Im Spiel}{34}{section*.25}
+\contentsline {section}{\numberline {4.6}Lehren ziehen}{35}{section.4.6}
+\contentsline {part}{\numberline {V}einGriffe}{36}{part.5}
+\contentsline {chapter}{\numberline {5}einGriffe}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}Sich in die Karten schauen lassen}{37}{section.5.1}
+\contentsline {section}{\numberline {5.2}Die Karten zinken}{37}{section.5.2}
+\contentsline {section}{\numberline {5.3}Nachkarten}{37}{section.5.3}
+\contentsline {section}{\numberline {5.4}Die Karten werden neu gemischt}{38}{section.5.4}
+\contentsline {section}{\numberline {5.5}Die Karten auf den Tisch legen}{38}{section.5.5}
+\contentsline {section}{\numberline {5.6}Ein Ass im \IeC {\"A}rmel haben}{38}{section.5.6}
+\contentsline {section}{\numberline {5.7}Alle Karten in der Hand haben}{39}{section.5.7}
+\contentsline {section}{\numberline {5.8}Alles auf eine Karte setzen}{39}{section.5.8}
+\contentsline {section}{\numberline {5.9}Mit offenen Karten spielen}{39}{section.5.9}
+\contentsline {section}{\numberline {5.10}Gnade der G\IeC {\"o}tter / Zorn der G\IeC {\"o}tter (H\IeC {\"O}L)}{39}{section.5.10}
+\contentsline {subsubsection}{Sessionvorbereitung}{39}{section*.26}
+\contentsline {subsubsection}{Im Spiel}{40}{section*.27}
+\contentsline {subsubsection}{Und was macht man damit?}{40}{section*.28}
+\contentsline {part}{\numberline {VI}Zum Schluss}{42}{part.6}
+\contentsline {chapter}{\numberline {6}Zum Schluss}{43}{chapter.6}
+\contentsline {section}{\numberline {6.1}Danksagungen}{43}{section.6.1}
+\contentsline {part}{\numberline {VII}Lizenzinformation}{44}{part.7}
+\contentsline {chapter}{\numberline {7}Lizenzinformation}{45}{chapter.7}
