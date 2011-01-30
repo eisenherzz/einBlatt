@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  25 JAN 2011 22:37
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  30 JAN 2011 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -528,22 +528,22 @@ Class scrreprt Info: You've told me to use the font selection of the element
 ]
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 60.
+(scrreprt)            on input line 96.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 61.
+(scrreprt)            on input line 97.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 75.
+(scrreprt)            on input line 111.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 76.
+(scrreprt)            on input line 112.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 78.
+(scrreprt)            on input line 114.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 79.
+(scrreprt)            on input line 115.
 )
 \tf@toc=\write4
 \openout4 = `einBlatt.toc'.
@@ -844,8 +844,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
 
-[34]) (./einRichtungen/Lehrenziehen/Lehrenziehen.tex))
-(./einGriffe/einGriffe.tex [35] [36
+[34]) (./einRichtungen/Lehrenziehen/Lehrenziehen.tex)
+(./einRichtungen/ZauberwoerterMagiesystem/ZauberwoerterMagiesystem.tex
+Overfull \hbox (1.19083pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/10.95 Es wird ein At-tri-but ben[]otigt, von dem die ma-gi-schen
+ F[]ahig-kei-ten des SCs abh[]angig
+ []
+
+[35] [36] [37] [38]
+Underfull \hbox (badness 10000) in paragraph at lines 109--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--114
+
+ []
+
+
+LaTeX Warning: Reference `sec:todo' on page 39 undefined on input line 132.
+
+
+LaTeX Warning: Reference `sec:todo' on page 39 undefined on input line 132.
+
+[39] [40] [41] [42])) (./einGriffe/einGriffe.tex [43] [44
 
 ]
 Kapitel 5.
@@ -857,13 +879,13 @@ Overfull \hbox (32.33632pt too wide) in paragraph at lines 3--6
  []
 
 ) (./einGriffe/nachkarten/nachkarten.tex)
-(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [37
+(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [45
 
 ])
 (./einGriffe/dieKartenaufdenTischlegen/dieKartenaufdenTischlegen.tex)
 (./einGriffe/einAssimAermelhaben/einAssimAermelhaben.tex)
 (./einGriffe/alleKarteninderHandhaben/alleKarteninderHandhaben.tex)
-(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [38])
+(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [46])
 (./einGriffe/mitoffenenKartenspielen/mitoffenenKartenspielen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
@@ -875,7 +897,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
  []
 
 ) (./einGriffe/GnadederGoetterZornderGoetter/GnadederGoetterZornderGoetter.tex
-[39] [40])) (./zumSchluss/zumSchluss.tex [41] [42
+[47] [48])) (./zumSchluss/zumSchluss.tex [49] [50
 
 ]
 Kapitel 6.
@@ -885,9 +907,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
 
-[43
+[51
 
-] [44
+] [52
 
 ]
 Kapitel 7.
@@ -897,13 +919,13 @@ Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--34
 mmons.org/licenses/by-nc-sa/3.0/de/
  []
 
-[45
+[53
 
 ] (./einBlatt.lot)
 \tf@lot=\write5
 \openout5 = `einBlatt.lot'.
 
- [46
+ [54
 
 ] (./einBlatt.aux)
 
@@ -911,10 +933,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5439 strings out of 495021
- 85610 string characters out of 1181036
+ 5502 strings out of 495021
+ 86645 string characters out of 1181036
  172063 words of memory out of 3000000
- 8270 multiletter control sequences out of 15000+50000
+ 8280 multiletter control sequences out of 15000+50000
  9728 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,11n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -925,9 +947,9 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on einBlatt.pdf (46 pages, 243495 bytes).
+Output written on einBlatt.pdf (54 pages, 273914 bytes).
 PDF statistics:
- 656 PDF objects out of 1000 (max. 8388607)
- 199 named destinations out of 1000 (max. 500000)
- 417 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 765 PDF objects out of 1000 (max. 8388607)
+ 248 named destinations out of 1000 (max. 500000)
+ 465 words of extra memory for PDF output out of 10000 (max. 10000000)
 

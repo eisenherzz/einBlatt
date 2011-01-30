@@ -57,23 +57,59 @@
 \contentsline {subsubsection}{Spielvorbereitung}{34}{section*.24}
 \contentsline {subsubsection}{Im Spiel}{34}{section*.25}
 \contentsline {section}{\numberline {4.6}Lehren ziehen}{35}{section.4.6}
-\contentsline {part}{\numberline {V}einGriffe}{36}{part.5}
-\contentsline {chapter}{\numberline {5}einGriffe}{37}{chapter.5}
-\contentsline {section}{\numberline {5.1}Sich in die Karten schauen lassen}{37}{section.5.1}
-\contentsline {section}{\numberline {5.2}Die Karten zinken}{37}{section.5.2}
-\contentsline {section}{\numberline {5.3}Nachkarten}{37}{section.5.3}
-\contentsline {section}{\numberline {5.4}Die Karten werden neu gemischt}{38}{section.5.4}
-\contentsline {section}{\numberline {5.5}Die Karten auf den Tisch legen}{38}{section.5.5}
-\contentsline {section}{\numberline {5.6}Ein Ass im \IeC {\"A}rmel haben}{38}{section.5.6}
-\contentsline {section}{\numberline {5.7}Alle Karten in der Hand haben}{39}{section.5.7}
-\contentsline {section}{\numberline {5.8}Alles auf eine Karte setzen}{39}{section.5.8}
-\contentsline {section}{\numberline {5.9}Mit offenen Karten spielen}{39}{section.5.9}
-\contentsline {section}{\numberline {5.10}Gnade der G\IeC {\"o}tter / Zorn der G\IeC {\"o}tter (H\IeC {\"O}L)}{39}{section.5.10}
-\contentsline {subsubsection}{Sessionvorbereitung}{39}{section*.26}
-\contentsline {subsubsection}{Im Spiel}{40}{section*.27}
-\contentsline {subsubsection}{Und was macht man damit?}{40}{section*.28}
-\contentsline {part}{\numberline {VI}Zum Schluss}{42}{part.6}
-\contentsline {chapter}{\numberline {6}Zum Schluss}{43}{chapter.6}
-\contentsline {section}{\numberline {6.1}Danksagungen}{43}{section.6.1}
-\contentsline {part}{\numberline {VII}Lizenzinformation}{44}{part.7}
-\contentsline {chapter}{\numberline {7}Lizenzinformation}{45}{chapter.7}
+\contentsline {section}{\numberline {4.7}Zauberw\IeC {\"o}rter Magiesystem}{35}{section.4.7}
+\contentsline {subsubsection}{Voraussetzungen}{35}{section*.26}
+\contentsline {subsubsection}{Charaktererschaffung}{35}{section*.27}
+\contentsline {subsection}{\numberline {4.7.1}Funktionsweise der Magie}{35}{subsection.4.7.1}
+\contentsline {subsubsection}{Allgemeine Vorbemerkung}{35}{section*.28}
+\contentsline {subsubsection}{Prinzipien und Prozesse}{36}{section*.29}
+\contentsline {subsubsection}{Qualit\IeC {\"a}ten}{36}{section*.30}
+\contentsline {subsection}{\numberline {4.7.2}Wirkung und Grenzen von Magie}{36}{subsection.4.7.2}
+\contentsline {subsubsection}{Reichweite}{36}{section*.31}
+\contentsline {subsubsection}{Wirkungsdauer}{36}{section*.32}
+\contentsline {subsubsection}{Grenzen verschieben}{37}{section*.33}
+\contentsline {subsection}{\numberline {4.7.3}Die Gestaltung von Prozessen und Prinzipien}{37}{subsection.4.7.3}
+\contentsline {subsubsection}{Breite contra enge Zauberw\IeC {\"o}rter}{37}{section*.34}
+\contentsline {subsubsection}{Keine \active@dq \dq@prtct {`}flexiblen\active@dq \dq@prtct {'} Zauberw\IeC {\"o}rter}{37}{section*.35}
+\contentsline {subsubsection}{Vorsilben vermeiden}{37}{section*.36}
+\contentsline {subsubsection}{Schwarze Magie}{38}{section*.37}
+\contentsline {subsection}{\numberline {4.7.4}Zauber wirken}{38}{subsection.4.7.4}
+\contentsline {subsubsection}{Die Magieprobe}{38}{section*.38}
+\contentsline {subsubsection}{Die Widerstandsprobe}{39}{section*.39}
+\contentsline {subsubsection}{Die Requisitenprobe}{39}{section*.40}
+\contentsline {subsection}{\numberline {4.7.5}Beispiele}{40}{subsection.4.7.5}
+\contentsline {subsubsection}{Voraussetzungen}{40}{section*.41}
+\contentsline {subsubsection}{Das Magie-Attribut}{40}{section*.42}
+\contentsline {subsubsection}{Funktionsweise der Magie}{40}{section*.43}
+\contentsline {subsubsection}{Prinzipien}{40}{section*.44}
+\contentsline {subsubsection}{Prozesse}{41}{section*.45}
+\contentsline {subsubsection}{Qualit\IeC {\"a}ten}{41}{section*.46}
+\contentsline {subsubsection}{Wirkung und Grenzen von Magie}{41}{section*.47}
+\contentsline {subsubsection}{Reichweite}{41}{section*.48}
+\contentsline {subsubsection}{Wirkungsdauer}{42}{section*.49}
+\contentsline {subsubsection}{Grenzen verschieben}{42}{section*.50}
+\contentsline {subsubsection}{Schwarze Magie}{42}{section*.51}
+\contentsline {subsubsection}{Zauber wirken}{42}{section*.52}
+\contentsline {subsubsection}{Die Magieprobe}{42}{section*.53}
+\contentsline {subsubsection}{Die Widerstandsprobe}{43}{section*.54}
+\contentsline {subsubsection}{Die Requisitenprobe}{43}{section*.55}
+\contentsline {part}{\numberline {V}einGriffe}{44}{part.5}
+\contentsline {chapter}{\numberline {5}einGriffe}{45}{chapter.5}
+\contentsline {section}{\numberline {5.1}Sich in die Karten schauen lassen}{45}{section.5.1}
+\contentsline {section}{\numberline {5.2}Die Karten zinken}{45}{section.5.2}
+\contentsline {section}{\numberline {5.3}Nachkarten}{45}{section.5.3}
+\contentsline {section}{\numberline {5.4}Die Karten werden neu gemischt}{46}{section.5.4}
+\contentsline {section}{\numberline {5.5}Die Karten auf den Tisch legen}{46}{section.5.5}
+\contentsline {section}{\numberline {5.6}Ein Ass im \IeC {\"A}rmel haben}{46}{section.5.6}
+\contentsline {section}{\numberline {5.7}Alle Karten in der Hand haben}{47}{section.5.7}
+\contentsline {section}{\numberline {5.8}Alles auf eine Karte setzen}{47}{section.5.8}
+\contentsline {section}{\numberline {5.9}Mit offenen Karten spielen}{47}{section.5.9}
+\contentsline {section}{\numberline {5.10}Gnade der G\IeC {\"o}tter / Zorn der G\IeC {\"o}tter (H\IeC {\"O}L)}{47}{section.5.10}
+\contentsline {subsubsection}{Sessionvorbereitung}{47}{section*.56}
+\contentsline {subsubsection}{Im Spiel}{48}{section*.57}
+\contentsline {subsubsection}{Und was macht man damit?}{48}{section*.58}
+\contentsline {part}{\numberline {VI}Zum Schluss}{50}{part.6}
+\contentsline {chapter}{\numberline {6}Zum Schluss}{51}{chapter.6}
+\contentsline {section}{\numberline {6.1}Danksagungen}{51}{section.6.1}
+\contentsline {part}{\numberline {VII}Lizenzinformation}{52}{part.7}
+\contentsline {chapter}{\numberline {7}Lizenzinformation}{53}{chapter.7}
