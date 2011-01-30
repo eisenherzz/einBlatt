@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  30 JAN 2011 17:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  30 JAN 2011 22:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,31 +519,31 @@ Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)            on input line 34.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 36.
+(scrreprt)            on input line 41.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 37.
+(scrreprt)            on input line 42.
  [3
 
 ]
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 121.
+(scrreprt)            on input line 126.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 122.
+(scrreprt)            on input line 127.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 136.
+(scrreprt)            on input line 141.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 137.
+(scrreprt)            on input line 142.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 139.
+(scrreprt)            on input line 144.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 140.
+(scrreprt)            on input line 145.
 )
 \tf@toc=\write4
 \openout4 = `einBlatt.toc'.
@@ -808,62 +808,93 @@ Underfull \hbox (badness 10000) in paragraph at lines 544--551
 
 ]
 Kapitel 3.
-(./einBildungen/einVerlies/einVerlies.tex)) (./einRichtungen/einRichtungen.tex
+(./einBildungen/einVerlies/einVerlies.tex
+Underfull \hbox (badness 10000) in paragraph at lines 16--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--29
+
+ []
+
 [28
 
-] [29
+]
+Overfull \hbox (27.31874pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10.95 dies f[]ur ihr Le-ben gern, schlie^^Y-lich sind sie al-le Au
+s-ge-bil-de-te In-nen-ar-chi-tek-ten/Raumausstatter,
+ []
+
+
+Overfull \hbox (19.19739pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10.95 an-de-rer-seits w[]are es f[]ur Hel-den auch si-cher eint[]o
+nig im-mer das sel-be Ver-lies zu durchk[]ammen. 
+ []
+
+[29])) (./einRichtungen/einRichtungen.tex [30] [31
 
 ]
 Kapitel 4.
 
 (./einRichtungen/StandardPunkteverteilungfuerAttribute/StandardPunkteverteilung
 fuerAttribute.tex
-Overfull \hbox (10.70763pt too wide) in paragraph at lines 23--36
+Overfull \hbox (10.70763pt too wide) in paragraph at lines 24--37
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--36
+Underfull \hbox (badness 10000) in paragraph at lines 18--37
 
  []
 
-[30
+[32
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 37--50
+Underfull \hbox (badness 10000) in paragraph at lines 38--51
 
  []
 
-) (./einRichtungen/breiteFertigkeiten/breiteFertigkeiten.tex [31])
+) (./einRichtungen/breiteFertigkeiten/breiteFertigkeiten.tex [33])
 (./einRichtungen/ErfahrungspunktePowergamer/ErfahrungspunktePowergamer.tex
-[32])
+[34])
 (./einRichtungen/ZusaetzlicheEigenschaftSelbstbewusstsein/ZusaetzlicheEigenscha
-ftSelbstbewusstsein.tex [33])
-(./einRichtungen/AnreizsystemAttribute/AnreizsystemAttribute.tex [34]
+ftSelbstbewusstsein.tex [35])
+(./einRichtungen/AnreizsystemAttribute/AnreizsystemAttribute.tex [36]
 Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
 
-[35]) (./einRichtungen/Lehrenziehen/Lehrenziehen.tex)
+[37]) (./einRichtungen/Lehrenziehen/Lehrenziehen.tex)
 (./einRichtungen/ZauberwoerterMagiesystem/ZauberwoerterMagiesystem.tex
-Overfull \hbox (1.19083pt too wide) in paragraph at lines 5--6
+Overfull \hbox (1.19083pt too wide) in paragraph at lines 6--7
 []\OT1/cmr/m/n/10.95 Es wird ein At-tri-but ben[]otigt, von dem die ma-gi-schen
  F[]ahig-kei-ten des SCs abh[]angig
  []
 
-[36] [37] [38] [39]
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
+[38] [39] [40] [41]
+Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
+Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
  []
 
-[40] [41] [42] [43])
-(./einRichtungen/einfacheFantasyAttribute/einfacheFantasyAttribute.tex [44]
-[45] [46])) (./einGriffe/einGriffe.tex [47] [48] [49
+[42] [43] [44] [45])
+(./einRichtungen/einfacheFantasyAttribute/einfacheFantasyAttribute.tex [46]
+[47] [48])) (./einGriffe/einGriffe.tex [49] [50] [51
 
 ]
 Kapitel 5.
@@ -875,13 +906,13 @@ Overfull \hbox (32.33632pt too wide) in paragraph at lines 3--6
  []
 
 ) (./einGriffe/nachkarten/nachkarten.tex)
-(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [50
+(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [52
 
 ])
 (./einGriffe/dieKartenaufdenTischlegen/dieKartenaufdenTischlegen.tex)
 (./einGriffe/einAssimAermelhaben/einAssimAermelhaben.tex)
 (./einGriffe/alleKarteninderHandhaben/alleKarteninderHandhaben.tex)
-(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [51])
+(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [53])
 (./einGriffe/mitoffenenKartenspielen/mitoffenenKartenspielen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
@@ -893,7 +924,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
  []
 
 ) (./einGriffe/GnadederGoetterZornderGoetter/GnadederGoetterZornderGoetter.tex
-[52] [53])) (./zumSchluss/zumSchluss.tex [54] [55
+[54] [55])) (./zumSchluss/zumSchluss.tex [56] [57
 
 ]
 Kapitel 6.
@@ -903,9 +934,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
 
-[56
+[58
 
-] [57
+] [59
 
 ]
 Kapitel 7.
@@ -915,13 +946,13 @@ Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--34
 mmons.org/licenses/by-nc-sa/3.0/de/
  []
 
-[58
+[60
 
 ] (./einBlatt.lot)
 \tf@lot=\write5
 \openout5 = `einBlatt.lot'.
 
- [59
+ [61
 
 ] (./einBlatt.aux)
 
@@ -929,10 +960,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5544 strings out of 495021
- 87491 string characters out of 1181036
- 172118 words of memory out of 3000000
- 8288 multiletter control sequences out of 15000+50000
+ 5556 strings out of 495021
+ 87712 string characters out of 1181036
+ 172302 words of memory out of 3000000
+ 8293 multiletter control sequences out of 15000+50000
  9728 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,11n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -943,9 +974,9 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on einBlatt.pdf (59 pages, 286812 bytes).
+Output written on einBlatt.pdf (61 pages, 296887 bytes).
 PDF statistics:
- 839 PDF objects out of 1000 (max. 8388607)
- 278 named destinations out of 1000 (max. 500000)
- 505 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 866 PDF objects out of 1000 (max. 8388607)
+ 285 named destinations out of 1000 (max. 500000)
+ 513 words of extra memory for PDF output out of 10000 (max. 10000000)
 

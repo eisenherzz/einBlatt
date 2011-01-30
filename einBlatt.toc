@@ -33,108 +33,113 @@
 \contentsline {part}{\numberline {III}einBildungen}{27}{part.3}
 \contentsline {chapter}{\numberline {3}einBildungen}{28}{chapter.3}
 \contentsline {section}{\numberline {3.1}einVerlies - Im Dungeon gibt es keine Manik\IeC {\"u}re}{28}{section.3.1}
-\contentsline {part}{\numberline {IV}einRichtungen}{29}{part.4}
-\contentsline {chapter}{\numberline {4}einRichtungen}{30}{chapter.4}
-\contentsline {section}{\numberline {4.1}Standard Punkteverteilung f\IeC {\"u}r Attribute}{30}{section.4.1}
-\contentsline {section}{\numberline {4.2}Breite Fertigkeiten}{31}{section.4.2}
-\contentsline {subsubsection}{Problem:}{31}{section*.10}
-\contentsline {subsubsection}{In der Charaktererschaffung:}{32}{section*.11}
-\contentsline {subsubsection}{In Proben:}{32}{section*.12}
-\contentsline {section}{\numberline {4.3}Erfahrungspunkte f\IeC {\"u}r Powergamer}{32}{section.4.3}
-\contentsline {subsubsection}{Erlangen von Erfahrungspunkten}{32}{section*.13}
-\contentsline {subsubsection}{Einsetzen von Erfahrungspunkten}{33}{section*.14}
-\contentsline {subsubsection}{Ausgeben von Erfahrungspunkten}{33}{section*.15}
-\contentsline {section}{\numberline {4.4}Zus\IeC {\"a}tzliche Eigenschaft: Selbstbewusstsein}{33}{section.4.4}
-\contentsline {subsubsection}{Charaktererschaffung:}{33}{section*.16}
-\contentsline {subsubsection}{Zu Spielbeginn:}{34}{section*.17}
-\contentsline {subsubsection}{Selbstbewusstsein gewinnen:}{34}{section*.18}
-\contentsline {subsubsection}{Selbstbewusst handeln:}{34}{section*.19}
-\contentsline {section}{\numberline {4.5}Anreizsystem (Attribute)}{35}{section.4.5}
-\contentsline {subsubsection}{Zweck}{35}{section*.20}
-\contentsline {subsubsection}{Regelanpassungen:}{35}{section*.21}
-\contentsline {subsubsection}{Allgemeine Regeln}{35}{section*.22}
-\contentsline {subsubsection}{Charaktererschaffung}{35}{section*.23}
-\contentsline {subsubsection}{Spielvorbereitung}{35}{section*.24}
-\contentsline {subsubsection}{Im Spiel}{35}{section*.25}
-\contentsline {section}{\numberline {4.6}Lehren ziehen}{36}{section.4.6}
-\contentsline {section}{\numberline {4.7}Zauberw\IeC {\"o}rter Magiesystem}{36}{section.4.7}
-\contentsline {subsubsection}{Voraussetzungen}{36}{section*.26}
-\contentsline {subsubsection}{Charaktererschaffung}{36}{section*.27}
-\contentsline {subsection}{\numberline {4.7.1}Funktionsweise der Magie}{36}{subsection.4.7.1}
-\contentsline {subsubsection}{Allgemeine Vorbemerkung}{36}{section*.28}
-\contentsline {subsubsection}{Prinzipien und Prozesse}{37}{section*.29}
-\contentsline {subsubsection}{Qualit\IeC {\"a}ten}{37}{section*.30}
-\contentsline {subsection}{\numberline {4.7.2}Wirkung und Grenzen von Magie}{37}{subsection.4.7.2}
-\contentsline {subsubsection}{Reichweite}{37}{section*.31}
-\contentsline {subsubsection}{Wirkungsdauer}{37}{section*.32}
-\contentsline {subsubsection}{Grenzen verschieben}{38}{section*.33}
-\contentsline {subsection}{\numberline {4.7.3}Die Gestaltung von Prozessen und Prinzipien}{38}{subsection.4.7.3}
-\contentsline {subsubsection}{Breite contra enge Zauberw\IeC {\"o}rter}{38}{section*.34}
-\contentsline {subsubsection}{Keine \active@dq \dq@prtct {`}flexiblen\active@dq \dq@prtct {'} Zauberw\IeC {\"o}rter}{38}{section*.35}
-\contentsline {subsubsection}{Vorsilben vermeiden}{38}{section*.36}
-\contentsline {subsubsection}{Schwarze Magie}{39}{section*.37}
-\contentsline {subsection}{\numberline {4.7.4}Zauber wirken}{39}{subsection.4.7.4}
-\contentsline {subsubsection}{Die Magieprobe}{39}{section*.38}
-\contentsline {subsubsection}{Die Widerstandsprobe}{40}{section*.39}
-\contentsline {subsubsection}{Die Requisitenprobe}{40}{section*.40}
-\contentsline {subsection}{\numberline {4.7.5}Beispiele}{41}{subsection.4.7.5}
-\contentsline {subsubsection}{Voraussetzungen}{41}{section*.41}
-\contentsline {subsubsection}{Das Magie-Attribut}{41}{section*.42}
-\contentsline {subsubsection}{Funktionsweise der Magie}{41}{section*.43}
-\contentsline {subsubsection}{Prinzipien}{41}{section*.44}
-\contentsline {subsubsection}{Prozesse}{42}{section*.45}
-\contentsline {subsubsection}{Qualit\IeC {\"a}ten}{42}{section*.46}
-\contentsline {subsubsection}{Wirkung und Grenzen von Magie}{42}{section*.47}
-\contentsline {subsubsection}{Reichweite}{42}{section*.48}
-\contentsline {subsubsection}{Wirkungsdauer}{43}{section*.49}
-\contentsline {subsubsection}{Grenzen verschieben}{43}{section*.50}
-\contentsline {subsubsection}{Schwarze Magie}{43}{section*.51}
-\contentsline {subsubsection}{Zauber wirken}{43}{section*.52}
-\contentsline {subsubsection}{Die Magieprobe}{43}{section*.53}
-\contentsline {subsubsection}{Die Widerstandsprobe}{44}{section*.54}
-\contentsline {subsubsection}{Die Requisitenprobe}{44}{section*.55}
-\contentsline {section}{\numberline {4.8}einfache Fantasy-Attribute}{44}{section.4.8}
-\contentsline {subsection}{\numberline {4.8.1}Attribut: St\IeC {\"a}rke}{44}{subsection.4.8.1}
-\contentsline {subsubsection}{Farbe: Kreuz}{44}{section*.56}
-\contentsline {subsubsection}{Bedeutung: Die k\IeC {\"o}rperliche Kraft des SC; seine Widerstandskraft; seine Gesundheit;}{44}{section*.57}
-\contentsline {subsubsection}{Fertigkeiten:}{44}{section*.58}
-\contentsline {subsubsection}{einSchr\IeC {\"a}nkungen:}{45}{section*.59}
-\contentsline {subsubsection}{Ersch\IeC {\"o}pfung:}{45}{section*.60}
-\contentsline {subsection}{\numberline {4.8.2}Attribut: Gewandtheit}{45}{subsection.4.8.2}
-\contentsline {subsubsection}{Farbe: Pik}{45}{section*.61}
-\contentsline {subsubsection}{Bedeutung: Schnelligkeit; Reflexe; Koordination; Nah- und Fernkampf}{45}{section*.62}
-\contentsline {subsubsection}{Fertigkeiten:}{45}{section*.63}
-\contentsline {subsubsection}{einSchr\IeC {\"a}nkungen:}{46}{section*.64}
-\contentsline {subsubsection}{Ersch\IeC {\"o}pfung:}{46}{section*.65}
-\contentsline {subsection}{\numberline {4.8.3}Attribut: Charisma}{46}{subsection.4.8.3}
-\contentsline {subsubsection}{Farbe: Herz}{46}{section*.66}
-\contentsline {subsubsection}{Bedeutung: Selbstdarstellung; Empathie; Empfindsamkeit}{46}{section*.67}
-\contentsline {subsubsection}{Fertigkeiten:}{46}{section*.68}
-\contentsline {subsubsection}{einSchr\IeC {\"a}nkungen:}{46}{section*.69}
-\contentsline {subsubsection}{Ersch\IeC {\"o}pfung:}{47}{section*.70}
-\contentsline {subsection}{\numberline {4.8.4}Attribut: Weisheit}{47}{subsection.4.8.4}
-\contentsline {subsubsection}{Farbe: Karo}{47}{section*.71}
-\contentsline {subsubsection}{Bedeutung: Wissen; Ged\IeC {\"a}chtnis; Wahrnehmung; geistige Widerstandsf\IeC {\"a}higkeit; Willenskraft; Magie}{47}{section*.72}
-\contentsline {subsubsection}{Fertigkeiten:}{47}{section*.73}
-\contentsline {subsubsection}{einSchr\IeC {\"a}nkungen:}{47}{section*.74}
-\contentsline {subsubsection}{Ersch\IeC {\"o}pfung:}{48}{section*.75}
-\contentsline {part}{\numberline {V}einGriffe}{49}{part.5}
-\contentsline {chapter}{\numberline {5}einGriffe}{50}{chapter.5}
-\contentsline {section}{\numberline {5.1}Sich in die Karten schauen lassen}{50}{section.5.1}
-\contentsline {section}{\numberline {5.2}Die Karten zinken}{50}{section.5.2}
-\contentsline {section}{\numberline {5.3}Nachkarten}{50}{section.5.3}
-\contentsline {section}{\numberline {5.4}Die Karten werden neu gemischt}{51}{section.5.4}
-\contentsline {section}{\numberline {5.5}Die Karten auf den Tisch legen}{51}{section.5.5}
-\contentsline {section}{\numberline {5.6}Ein Ass im \IeC {\"A}rmel haben}{51}{section.5.6}
-\contentsline {section}{\numberline {5.7}Alle Karten in der Hand haben}{52}{section.5.7}
-\contentsline {section}{\numberline {5.8}Alles auf eine Karte setzen}{52}{section.5.8}
-\contentsline {section}{\numberline {5.9}Mit offenen Karten spielen}{52}{section.5.9}
-\contentsline {section}{\numberline {5.10}Gnade der G\IeC {\"o}tter / Zorn der G\IeC {\"o}tter (H\IeC {\"O}L)}{52}{section.5.10}
-\contentsline {subsubsection}{Sessionvorbereitung}{52}{section*.76}
-\contentsline {subsubsection}{Im Spiel}{53}{section*.77}
-\contentsline {subsubsection}{Und was macht man damit?}{53}{section*.78}
-\contentsline {part}{\numberline {VI}Zum Schluss}{55}{part.6}
-\contentsline {chapter}{\numberline {6}Zum Schluss}{56}{chapter.6}
-\contentsline {section}{\numberline {6.1}Danksagungen}{56}{section.6.1}
-\contentsline {part}{\numberline {VII}Lizenzinformation}{57}{part.7}
-\contentsline {chapter}{\numberline {7}Lizenzinformation}{58}{chapter.7}
+\contentsline {subsection}{\numberline {3.1.1}Regeln}{28}{subsection.3.1.1}
+\contentsline {subsubsection}{Charaktererschaffung:}{28}{section*.10}
+\contentsline {subsubsection}{Heldenhafte Sch\IeC {\"o}nheit}{29}{section*.11}
+\contentsline {subsubsection}{Das Endspiel}{29}{section*.12}
+\contentsline {subsubsection}{\IeC {\"U}ber Verliese}{29}{section*.13}
+\contentsline {part}{\numberline {IV}einRichtungen}{31}{part.4}
+\contentsline {chapter}{\numberline {4}einRichtungen}{32}{chapter.4}
+\contentsline {section}{\numberline {4.1}Standard Punkteverteilung f\IeC {\"u}r Attribute}{32}{section.4.1}
+\contentsline {section}{\numberline {4.2}Breite Fertigkeiten}{33}{section.4.2}
+\contentsline {subsubsection}{Problem:}{33}{section*.14}
+\contentsline {subsubsection}{In der Charaktererschaffung:}{34}{section*.15}
+\contentsline {subsubsection}{In Proben:}{34}{section*.16}
+\contentsline {section}{\numberline {4.3}Erfahrungspunkte f\IeC {\"u}r Powergamer}{34}{section.4.3}
+\contentsline {subsubsection}{Erlangen von Erfahrungspunkten}{34}{section*.17}
+\contentsline {subsubsection}{Einsetzen von Erfahrungspunkten}{35}{section*.18}
+\contentsline {subsubsection}{Ausgeben von Erfahrungspunkten}{35}{section*.19}
+\contentsline {section}{\numberline {4.4}Zus\IeC {\"a}tzliche Eigenschaft: Selbstbewusstsein}{35}{section.4.4}
+\contentsline {subsubsection}{Charaktererschaffung:}{35}{section*.20}
+\contentsline {subsubsection}{Zu Spielbeginn:}{36}{section*.21}
+\contentsline {subsubsection}{Selbstbewusstsein gewinnen:}{36}{section*.22}
+\contentsline {subsubsection}{Selbstbewusst handeln:}{36}{section*.23}
+\contentsline {section}{\numberline {4.5}Anreizsystem (Attribute)}{37}{section.4.5}
+\contentsline {subsubsection}{Zweck}{37}{section*.24}
+\contentsline {subsubsection}{Regelanpassungen:}{37}{section*.25}
+\contentsline {subsubsection}{Allgemeine Regeln}{37}{section*.26}
+\contentsline {subsubsection}{Charaktererschaffung}{37}{section*.27}
+\contentsline {subsubsection}{Spielvorbereitung}{37}{section*.28}
+\contentsline {subsubsection}{Im Spiel}{37}{section*.29}
+\contentsline {section}{\numberline {4.6}Lehren ziehen}{38}{section.4.6}
+\contentsline {section}{\numberline {4.7}Zauberw\IeC {\"o}rter Magiesystem}{38}{section.4.7}
+\contentsline {subsubsection}{Voraussetzungen}{38}{section*.30}
+\contentsline {subsubsection}{Charaktererschaffung}{38}{section*.31}
+\contentsline {subsection}{\numberline {4.7.1}Funktionsweise der Magie}{38}{subsection.4.7.1}
+\contentsline {subsubsection}{Allgemeine Vorbemerkung}{38}{section*.32}
+\contentsline {subsubsection}{Prinzipien und Prozesse}{39}{section*.33}
+\contentsline {subsubsection}{Qualit\IeC {\"a}ten}{39}{section*.34}
+\contentsline {subsection}{\numberline {4.7.2}Wirkung und Grenzen von Magie}{39}{subsection.4.7.2}
+\contentsline {subsubsection}{Reichweite}{39}{section*.35}
+\contentsline {subsubsection}{Wirkungsdauer}{39}{section*.36}
+\contentsline {subsubsection}{Grenzen verschieben}{40}{section*.37}
+\contentsline {subsection}{\numberline {4.7.3}Die Gestaltung von Prozessen und Prinzipien}{40}{subsection.4.7.3}
+\contentsline {subsubsection}{Breite contra enge Zauberw\IeC {\"o}rter}{40}{section*.38}
+\contentsline {subsubsection}{Keine \active@dq \dq@prtct {`}flexiblen\active@dq \dq@prtct {'} Zauberw\IeC {\"o}rter}{40}{section*.39}
+\contentsline {subsubsection}{Vorsilben vermeiden}{40}{section*.40}
+\contentsline {subsubsection}{Schwarze Magie}{41}{section*.41}
+\contentsline {subsection}{\numberline {4.7.4}Zauber wirken}{41}{subsection.4.7.4}
+\contentsline {subsubsection}{Die Magieprobe}{41}{section*.42}
+\contentsline {subsubsection}{Die Widerstandsprobe}{42}{section*.43}
+\contentsline {subsubsection}{Die Requisitenprobe}{42}{section*.44}
+\contentsline {subsection}{\numberline {4.7.5}Beispiele}{43}{subsection.4.7.5}
+\contentsline {subsubsection}{Voraussetzungen}{43}{section*.45}
+\contentsline {subsubsection}{Das Magie-Attribut}{43}{section*.46}
+\contentsline {subsubsection}{Funktionsweise der Magie}{43}{section*.47}
+\contentsline {subsubsection}{Prinzipien}{43}{section*.48}
+\contentsline {subsubsection}{Prozesse}{44}{section*.49}
+\contentsline {subsubsection}{Qualit\IeC {\"a}ten}{44}{section*.50}
+\contentsline {subsubsection}{Wirkung und Grenzen von Magie}{44}{section*.51}
+\contentsline {subsubsection}{Reichweite}{44}{section*.52}
+\contentsline {subsubsection}{Wirkungsdauer}{45}{section*.53}
+\contentsline {subsubsection}{Grenzen verschieben}{45}{section*.54}
+\contentsline {subsubsection}{Schwarze Magie}{45}{section*.55}
+\contentsline {subsubsection}{Zauber wirken}{45}{section*.56}
+\contentsline {subsubsection}{Die Magieprobe}{45}{section*.57}
+\contentsline {subsubsection}{Die Widerstandsprobe}{46}{section*.58}
+\contentsline {subsubsection}{Die Requisitenprobe}{46}{section*.59}
+\contentsline {section}{\numberline {4.8}einfache Fantasy-Attribute}{46}{section.4.8}
+\contentsline {subsection}{\numberline {4.8.1}Attribut: St\IeC {\"a}rke}{46}{subsection.4.8.1}
+\contentsline {subsubsection}{Farbe: Kreuz}{46}{section*.60}
+\contentsline {subsubsection}{Bedeutung: Die k\IeC {\"o}rperliche Kraft des SC; seine Widerstandskraft; seine Gesundheit;}{46}{section*.61}
+\contentsline {subsubsection}{Fertigkeiten:}{46}{section*.62}
+\contentsline {subsubsection}{einSchr\IeC {\"a}nkungen:}{47}{section*.63}
+\contentsline {subsubsection}{Ersch\IeC {\"o}pfung:}{47}{section*.64}
+\contentsline {subsection}{\numberline {4.8.2}Attribut: Gewandtheit}{47}{subsection.4.8.2}
+\contentsline {subsubsection}{Farbe: Pik}{47}{section*.65}
+\contentsline {subsubsection}{Bedeutung: Schnelligkeit; Reflexe; Koordination; Nah- und Fernkampf}{47}{section*.66}
+\contentsline {subsubsection}{Fertigkeiten:}{47}{section*.67}
+\contentsline {subsubsection}{einSchr\IeC {\"a}nkungen:}{48}{section*.68}
+\contentsline {subsubsection}{Ersch\IeC {\"o}pfung:}{48}{section*.69}
+\contentsline {subsection}{\numberline {4.8.3}Attribut: Charisma}{48}{subsection.4.8.3}
+\contentsline {subsubsection}{Farbe: Herz}{48}{section*.70}
+\contentsline {subsubsection}{Bedeutung: Selbstdarstellung; Empathie; Empfindsamkeit}{48}{section*.71}
+\contentsline {subsubsection}{Fertigkeiten:}{48}{section*.72}
+\contentsline {subsubsection}{einSchr\IeC {\"a}nkungen:}{48}{section*.73}
+\contentsline {subsubsection}{Ersch\IeC {\"o}pfung:}{49}{section*.74}
+\contentsline {subsection}{\numberline {4.8.4}Attribut: Weisheit}{49}{subsection.4.8.4}
+\contentsline {subsubsection}{Farbe: Karo}{49}{section*.75}
+\contentsline {subsubsection}{Bedeutung: Wissen; Ged\IeC {\"a}chtnis; Wahrnehmung; geistige Widerstandsf\IeC {\"a}higkeit; Willenskraft; Magie}{49}{section*.76}
+\contentsline {subsubsection}{Fertigkeiten:}{49}{section*.77}
+\contentsline {subsubsection}{einSchr\IeC {\"a}nkungen:}{49}{section*.78}
+\contentsline {subsubsection}{Ersch\IeC {\"o}pfung:}{50}{section*.79}
+\contentsline {part}{\numberline {V}einGriffe}{51}{part.5}
+\contentsline {chapter}{\numberline {5}einGriffe}{52}{chapter.5}
+\contentsline {section}{\numberline {5.1}Sich in die Karten schauen lassen}{52}{section.5.1}
+\contentsline {section}{\numberline {5.2}Die Karten zinken}{52}{section.5.2}
+\contentsline {section}{\numberline {5.3}Nachkarten}{52}{section.5.3}
+\contentsline {section}{\numberline {5.4}Die Karten werden neu gemischt}{53}{section.5.4}
+\contentsline {section}{\numberline {5.5}Die Karten auf den Tisch legen}{53}{section.5.5}
+\contentsline {section}{\numberline {5.6}Ein Ass im \IeC {\"A}rmel haben}{53}{section.5.6}
+\contentsline {section}{\numberline {5.7}Alle Karten in der Hand haben}{54}{section.5.7}
+\contentsline {section}{\numberline {5.8}Alles auf eine Karte setzen}{54}{section.5.8}
+\contentsline {section}{\numberline {5.9}Mit offenen Karten spielen}{54}{section.5.9}
+\contentsline {section}{\numberline {5.10}Gnade der G\IeC {\"o}tter / Zorn der G\IeC {\"o}tter (H\IeC {\"O}L)}{54}{section.5.10}
+\contentsline {subsubsection}{Sessionvorbereitung}{54}{section*.80}
+\contentsline {subsubsection}{Im Spiel}{55}{section*.81}
+\contentsline {subsubsection}{Und was macht man damit?}{55}{section*.82}
+\contentsline {part}{\numberline {VI}Zum Schluss}{57}{part.6}
+\contentsline {chapter}{\numberline {6}Zum Schluss}{58}{chapter.6}
+\contentsline {section}{\numberline {6.1}Danksagungen}{58}{section.6.1}
+\contentsline {part}{\numberline {VII}Lizenzinformation}{59}{part.7}
+\contentsline {chapter}{\numberline {7}Lizenzinformation}{60}{chapter.7}
