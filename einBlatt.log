@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  30 JAN 2011 22:32
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  1 FEB 2011 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -941,7 +941,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 ]
 Kapitel 7.
 )
-Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--34
+Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--36
 \OT1/cmr/m/n/10.95 Li-zenz an-zu-se-hen, ge-hen Sie bit-te zu http://creativeco
 mmons.org/licenses/by-nc-sa/3.0/de/
  []
@@ -974,7 +974,7 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on einBlatt.pdf (61 pages, 296887 bytes).
+Output written on einBlatt.pdf (61 pages, 296922 bytes).
 PDF statistics:
  866 PDF objects out of 1000 (max. 8388607)
  285 named destinations out of 1000 (max. 500000)
