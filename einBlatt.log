@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  1 FEB 2011 22:45
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  1 FEB 2011 23:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,9 +559,6 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              Support for \float@addtolists may be removed from
 (scrreprt)              `scrreprt' soon .
 
-
-LaTeX Warning: Reference `einVerlies' on page 7 undefined on input line 11.
-
 [7
 
 ]
@@ -809,35 +806,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 544--551
 ]
 Kapitel 3.
 (./einBildungen/einVerlies/einVerlies.tex
-Underfull \hbox (badness 10000) in paragraph at lines 16--29
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--29
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--29
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--29
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
 [28
 
 ]
-Overfull \hbox (27.31874pt too wide) in paragraph at lines 51--52
+Overfull \hbox (27.31874pt too wide) in paragraph at lines 52--53
 \OT1/cmr/m/n/10.95 dies f[]ur ihr Le-ben gern, schlie^^Y-lich sind sie al-le Au
 s-ge-bil-de-te In-nen-ar-chi-tek-ten/Raumausstatter,
  []
 
 
-Overfull \hbox (19.19739pt too wide) in paragraph at lines 51--52
+Overfull \hbox (19.19739pt too wide) in paragraph at lines 52--53
 \OT1/cmr/m/n/10.95 an-de-rer-seits w[]are es f[]ur Hel-den auch si-cher eint[]o
 nig im-mer das sel-be Ver-lies zu durchk[]ammen. 
  []
@@ -954,29 +951,26 @@ mmons.org/licenses/by-nc-sa/3.0/de/
 
  [61
 
-] (./einBlatt.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (./einBlatt.aux) ) 
 Here is how much of TeX's memory you used:
  5556 strings out of 495021
- 87712 string characters out of 1181036
- 172302 words of memory out of 3000000
+ 87717 string characters out of 1181036
+ 172378 words of memory out of 3000000
  8293 multiletter control sequences out of 15000+50000
  9728 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,11n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/
-type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
-/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
-cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
-b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on einBlatt.pdf (61 pages, 296922 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on einBlatt.pdf (61 pages, 297047 bytes).
 PDF statistics:
- 866 PDF objects out of 1000 (max. 8388607)
+ 868 PDF objects out of 1000 (max. 8388607)
  285 named destinations out of 1000 (max. 500000)
  513 words of extra memory for PDF output out of 10000 (max. 10000000)
 
