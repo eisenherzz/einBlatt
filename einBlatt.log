@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  7 FEB 2011 19:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  13 FEB 2011 13:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -524,33 +524,33 @@ Class scrreprt Info: You've told me to use the font selection of the element
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 34.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 41.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 42.
  [3
 
 ]
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 126.
+(scrreprt)            on input line 43.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 127.
+(scrreprt)            on input line 44.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 141.
+(scrreprt)            on input line 128.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 142.
+(scrreprt)            on input line 129.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 143.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 144.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 145.
+(scrreprt)            on input line 146.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 147.
 )
 \tf@toc=\write4
 \openout4 = `einBlatt.toc'.
@@ -622,186 +622,145 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
 
-[15] [16]
-Overfull \hbox (5.29123pt too wide) in paragraph at lines 163--164
-\OT1/cmr/m/n/10.95 ren starb, des-sen Lie-der aber noch heu-
+[15]
+Overfull \hbox (34.46982pt too wide) in paragraph at lines 136--149
+[][] 
  []
 
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 170--174
 
-Overfull \hbox (1.44356pt too wide) in paragraph at lines 164--165
-[]\OT1/cmr/m/n/10.95 Ulf (sein Gro^^Y-on-kel und der bes-te See-
  []
 
-
-Overfull \hbox (4.28754pt too wide) in paragraph at lines 166--167
-\OT1/cmr/m/n/10.95 ren einen Halb-gott her-ein-leg-te, um mit
- []
-
-
-Overfull \hbox (1.76294pt too wide) in paragraph at lines 166--167
-\OT1/cmr/m/n/10.95 ihm Su-per-hen-driks Fa-mi-lie zu zeu-gen) 
- []
-
-
-Overfull \hbox (2.3226pt too wide) in paragraph at lines 186--187
-[][]\OT1/cmr/m/n/10.95 Was soll die Axt denn an Dei-nem Kopf?\
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 182--186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--204
+Underfull \hbox (badness 10000) in paragraph at lines 195--199
 
  []
 
-[17
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 213--217
-
- []
-
-
-Overfull \hbox (13.15405pt too wide) in paragraph at lines 220--221
-[]\OT1/cmr/m/n/10.95 Lasse (Ei-riks Gro^^Y-va-ter, der mit Karten-
- []
-
-
-Overfull \hbox (2.49292pt too wide) in paragraph at lines 223--225
-[]\OT1/cmr/m/n/10.95 Zufrieden reicht Ste-fan Hen-drik die Hand:
- []
-
-
-Overfull \hbox (12.427pt too wide) in paragraph at lines 226--227
-[][]\OT1/cmr/m/n/10.95 Dein Feind will ich je-den-falls nicht sein...\ 
- []
-
-[18
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 246--250
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 228--232
 
  []
 
 
-Overfull \hbox (9.05533pt too wide) in paragraph at lines 251--252
+Overfull \hbox (9.05533pt too wide) in paragraph at lines 233--234
 \OT1/cmr/m/n/10.95 de-cken. l[]asst der SL al-le Spie-ler Kar-ten ent-spre-chen
 d ih-res []Wahr-neh-mung\-Attributwertes
  []
 
-[19
-
-] [20]
-Overfull \hbox (12.66734pt too wide) in paragraph at lines 269--270
+[19] [20]
+Overfull \hbox (12.66734pt too wide) in paragraph at lines 251--252
 \OT1/cmr/m/n/10.95 Ge-wandt-heit 6 (At-tri-buts-far-be $\OMS/cmsy/m/n/10.95 |$\
 OT1/cmr/m/n/10.95 ) und verf[]ugt
  []
 
 
-Overfull \hbox (2.49297pt too wide) in paragraph at lines 321--322
+Overfull \hbox (2.49297pt too wide) in paragraph at lines 303--304
 []\OT1/cmr/m/n/10.95 Billy hat sei-ne At-tri-buts-far-be ge-spielt,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--328
+Underfull \hbox (badness 10000) in paragraph at lines 305--310
 
  []
 
 
-Overfull \hbox (3.13159pt too wide) in paragraph at lines 329--330
+Overfull \hbox (3.13159pt too wide) in paragraph at lines 311--312
 []\OT1/cmr/m/n/10.95 Billys et-was b[]ucher-ver-ses-se-ner Freund Sa-
  []
 
 
-Overfull \hbox (9.12366pt too wide) in paragraph at lines 329--330
+Overfull \hbox (9.12366pt too wide) in paragraph at lines 311--312
 \OT1/cmr/m/n/10.95 schrie-ben wur-de, ge-le-sen, und so schwer klang
  []
 
 
-Overfull \hbox (0.36368pt too wide) in paragraph at lines 331--332
+Overfull \hbox (0.36368pt too wide) in paragraph at lines 313--314
 []\OT1/cmr/m/n/10.95 Zu sei-ner Entt[]auschung darf er aber nicht
  []
 
 
-Overfull \hbox (1.84207pt too wide) in paragraph at lines 331--332
+Overfull \hbox (1.84207pt too wide) in paragraph at lines 313--314
 \OT1/cmr/m/n/10.95 tri-buts-far-be $\OMS/cmsy/m/n/10.95 |$\OT1/cmr/m/n/10.95 ) 
 pro-ben. []Ich kann aber auch
  []
 
 
-Overfull \hbox (46.67328pt too wide) in paragraph at lines 331--332
+Overfull \hbox (46.67328pt too wide) in paragraph at lines 313--314
 []\OT1/cmr/m/n/10.95 Ge-wandt-heit:Klettern\ son-dern []Weis-heit:Klettern\
  []
 
 [21
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 384--388
+Underfull \hbox (badness 10000) in paragraph at lines 366--370
 
  []
 
 
-Overfull \hbox (1.5196pt too wide) in paragraph at lines 384--388
+Overfull \hbox (1.5196pt too wide) in paragraph at lines 366--370
 \OT1/cmr/m/n/10.95 von dem w[]uten-den Baum-hir-ten, kas-siert bei
  []
 
 
-Overfull \hbox (5.4433pt too wide) in paragraph at lines 384--388
+Overfull \hbox (5.4433pt too wide) in paragraph at lines 366--370
 \OT1/cmr/m/n/10.95 str[]upp ka-min-ge-recht zer-klei-nern zu las-sen... 
  []
 
 
-Overfull \hbox (7.51157pt too wide) in paragraph at lines 393--394
+Overfull \hbox (7.51157pt too wide) in paragraph at lines 375--376
 \OT1/cmr/m/n/10.95 fern sich einen Seilzieh-Wettbewerb mit sechs
  []
 
 
-Overfull \hbox (7.90701pt too wide) in paragraph at lines 393--394
+Overfull \hbox (7.90701pt too wide) in paragraph at lines 375--376
 \OT1/cmr/m/n/10.95 Fels\ nat[]urlich ein-set-zen darf. Fran-cis schl[]agt
  []
 
 [22]
-Overfull \hbox (13.07793pt too wide) in paragraph at lines 437--438
+Overfull \hbox (13.07793pt too wide) in paragraph at lines 419--420
 \OT1/cmr/m/n/10.95 sonst h[]atte er kei-ne Kar-ten f[]ur sei-ne Anf[]uhrer-
  []
 
 
-Overfull \hbox (8.85617pt too wide) in paragraph at lines 445--446
+Overfull \hbox (8.85617pt too wide) in paragraph at lines 427--428
 [][]\OT1/cmr/m/n/10.95 Klar,\ ant-wor-tet Fran-cis Spie-ler, []ich neh-
  []
 
 
-Overfull \hbox (0.66791pt too wide) in paragraph at lines 447--448
+Overfull \hbox (0.66791pt too wide) in paragraph at lines 429--430
 []\OT1/cmr/m/n/10.95 Francis erh[]alt einen Punkt, der ers-te Jun-
  []
 
 [23]
-Overfull \hbox (2.40169pt too wide) in paragraph at lines 451--454
+Overfull \hbox (2.40169pt too wide) in paragraph at lines 433--436
 []\OT1/cmr/m/n/10.95 Au^^Yerdem greift der vier-te Jun-ge, der nun
  []
 
 
-Overfull \hbox (1.82375pt too wide) in paragraph at lines 451--454
+Overfull \hbox (1.82375pt too wide) in paragraph at lines 433--436
 \OT1/cmr/m/n/10.95 Buben an. Mor-ti-mer ant-wor-tet grin-send mit
  []
 
 
-Overfull \hbox (2.00624pt too wide) in paragraph at lines 459--460
+Overfull \hbox (2.00624pt too wide) in paragraph at lines 441--442
 \OT1/cmr/m/n/10.95 den Run-den nur noch ei-ne Kar-te bleibt (und
  []
 
 [24]
-Overfull \hbox (3.37497pt too wide) in paragraph at lines 517--518
+Overfull \hbox (3.37497pt too wide) in paragraph at lines 499--500
 []\OT1/cmr/m/n/10.95 So kommt fol-gen-des End-er-ge-be-nis zu-stan-
  []
 
 [25
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 544--551
+Underfull \hbox (badness 10000) in paragraph at lines 526--533
 
  []
 
@@ -845,7 +804,9 @@ Overfull \hbox (19.19739pt too wide) in paragraph at lines 52--53
 nig im-mer das sel-be Ver-lies zu durchk[]ammen. 
  []
 
-[29])) (./einRichtungen/einRichtungen.tex [30] [31
+[29]) (./einBildungen/HalloWelt/HalloWelt.tex)
+(./einBildungen/Sorgenend/Sorgenend.tex)) (./einRichtungen/einRichtungen.tex
+[30] [31
 
 ]
 Kapitel 4.
@@ -960,9 +921,9 @@ mmons.org/licenses/by-nc-sa/3.0/de/
 ] (./einBlatt.aux) ) 
 Here is how much of TeX's memory you used:
  5776 strings out of 495021
- 89861 string characters out of 1181036
- 174971 words of memory out of 3000000
- 8505 multiletter control sequences out of 15000+50000
+ 90257 string characters out of 1181036
+ 175024 words of memory out of 3000000
+ 8514 multiletter control sequences out of 15000+50000
  11972 words of font info for 41 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,11n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -974,9 +935,9 @@ fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
 nts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on einBlatt.pdf (61 pages, 301660 bytes).
+Output written on einBlatt.pdf (61 pages, 301389 bytes).
 PDF statistics:
- 872 PDF objects out of 1000 (max. 8388607)
- 285 named destinations out of 1000 (max. 500000)
- 513 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 861 PDF objects out of 1000 (max. 8388607)
+ 268 named destinations out of 1000 (max. 500000)
+ 529 words of extra memory for PDF output out of 10000 (max. 10000000)
 
