@@ -38,8 +38,8 @@
 \contentsline {subsubsection}{Heldenhafte Sch\IeC {\"o}nheit}{29}{section*.11}
 \contentsline {subsubsection}{Das Endspiel}{29}{section*.12}
 \contentsline {subsubsection}{\IeC {\"U}ber Verliese}{29}{section*.13}
-\contentsline {section}{\numberline {3.2}Hallo Welt!}{30}{section.3.2}
-\contentsline {section}{\numberline {3.3}Sorgenend}{30}{section.3.3}
+\contentsline {section}{\numberline {3.2}Hallo Welt! (in Entwicklung)}{30}{section.3.2}
+\contentsline {section}{\numberline {3.3}Sorgenend (in Entwicklung)}{30}{section.3.3}
 \contentsline {part}{\numberline {IV}einRichtungen}{31}{part.4}
 \contentsline {chapter}{\numberline {4}einRichtungen}{32}{chapter.4}
 \contentsline {section}{\numberline {4.1}Standard Punkteverteilung f\IeC {\"u}r Attribute}{32}{section.4.1}
