@@ -220,7 +220,7 @@ Um festzustellen, ob die SCs den in einem Gebüsch versteckten feindlichen Späh
 
 Damit haben drei Konfliktteilnehmer Attributsfarbe gespielt (Spieler drei, Spieler vier und der SL). Zwischen diesen entscheidet nun die Kartenhöhe. Die \karo-7 von Spieler drei ist die niedrigste der drei Karten. Die \karo-10 von Spieler vier jedoch ist gleichrangig mit der \pik-10 des Spähers, da beide ihre jeweilige Attributsfarbe gespielt haben. So wird der Feind zwar entdeckt, bemerkt dies aber im selben Augenblick und nimmt so einen kleinen Vorsprung mit auf die Flucht.
 
-\twocolumn
+
 \subsection {Proben}
 \subsubsection {Einfacher Fall: 1 gegen 1}
 
@@ -229,61 +229,38 @@ Beispiel 1 -- eine ganz normale Probe:
 Billy will einen Baum hinauf klettern. Der SL bestimmt, dass der Konflikt zwischen Billy und dem Baum stattfindet. Für Billy legt er Gewandtheit:Klettern als Probenattribut und -Fertigkeit fest. Billy hat Gewandtheit 6 (Attributsfarbe \kreuz) und verfügt über die Fertigkeit Gewandtheit:Klettern, also zieht er sechs Karten. Als Schwierigkeit zieht der SL fünf Karten, legt aber keine Attributsfarbe fest.
 
 Da Billy die benötigte Fertigkeit hat und sie dem Probenattribut zugehörig ist, darf er seinen vollen Attributswert ziehen -- also sechs Karten:
-\begin {itemize}
-\item \herz: 8, König
-\item \karo: 8, 9
-\item \pik: Bube, Dame
-\item \kreuz: 10
-\end {itemize}
+\begin{table}[H]
+\caption{Beispiel (Vorbereitung): Einfacher Fall: 1 gegen 1}
+\label{tab:BeispielVorber1gegen1}
+\begin{tabular}{|l|l|}
+\hline
+Billy & SL\\
+\hline
+\herz: 8, König & \herz: 10 \\
+\karo: 8, 9 & \karo: 7 \\
+\pik: Bube, Dame & \pik: Dame\\
+\kreuz: 10 & \kreuz: 8, Ass\\
+\hline
+\end{tabular}
+\end{table}
 
-Der SL zieht:
-\begin {itemize}
-\item \herz: 10
-\item \karo: 7
-\item \pik: Dame
-\item \kreuz: 8, Ass
-\end {itemize}
+\begin{table}[H]
+\caption{Beispiel (Rundenablauf): Einfacher Fall: 1 gegen 1}
+\label{tab:BeispielRunden1gegen1}
+\begin{tabular}{|p{5cm}|p{5cm}|p{5cm}|}
+\hline
+1. Runde & 2. Runde & 3. Runde\\
+\hline
+Billy: \herz-König & Billy: \pik-Dame & Billy: \kreuz-10\\
+SL: \herz-10 & SL: \pik-Dame & SL: \kreuz-Ass\\
+\hline
+\multicolumn{3}{|c|}{Ergebnis}\\
+\hline
+Niemand hat Attributsfarbe gespielt. Billys König ist höher als die 10 des SL. Also gewinnt Billy. Billy hat 1 EP, der SL -1 & Niemand hat Attributsfarbe gespielt. Beide Karten sind gleich hoch. Also bekommt niemand Punkte. Billy hat 1 EP, der SL -1. & Billy hat seine Attributsfarbe gespielt, der SL nicht (weil er keine hat). Damit sind die Motive egal. Billy gewinnt diese Aktion. Billy hat 2 EP, der SL -2. Und laut Tabelle \ref {tab:konfliktergebnisse} (Seite \pageref {tab:konfliktergebnisse})  bedeutet das, dass Billy den Baum besteigt, ganz so, wie er sich das vorgestellt hat. \\
+\hline
+\end{tabular}
+\end{table}
 
-1. Runde:
-\begin {itemize}
-\item Billy: \herz-König
-\item SL: \herz-10
-\end {itemize}
-
-Ergebnis:
-\begin {itemize}
-\item niemand hat Attributsfarbe gespielt
-\item Billys König ist höher als die 10 des SL
-\end {itemize}
-Also gewinnt Billy. Billy hat 1 EP, der SL -1.
-
-2. Runde:
-\begin {itemize}
-\item Billy: \pik-Dame
-\item SL: \pik-Dame
-\end {itemize}
-
-Ergebnis:
-\begin {itemize}
-\item niemand hat Attributsfarbe gespielt
-\item Beide Karten sind gleich hoch
-\end {itemize}
-Also bekommt niemand Punkte. Billy hat 1 EP, der SL -1.
-
-3. Runde:
-\begin {itemize}
-\item Billy: \kreuz-10
-\item SL: \kreuz-Ass
-\end {itemize}
-
-Ergebnis:
-\begin {itemize}
-\item Billy hat seine Attributsfarbe gespielt, der SL nicht (weil er keine hat)
-\end {itemize}
-Damit sind die Motive egal. Billy gewinnt diese Aktion. Billy hat 2 EP, der SL -2.
-Und laut Tabelle \ref {tab:konfliktergebnisse} (Seite \pageref {tab:konfliktergebnisse})  bedeutet das, dass Billy den Baum besteigt, ganz so, wie er sich das vorgestellt hat.
-\\
-\\
 Beispiel 2:
 
 Billys etwas bücherversessener Freund Saruman, der Jüngere, sieht Billy zu und beschließt, ihn zu übertreffen, Erst kürzlich hat er alles, was je über das Klettern geschrieben wurde, gelesen, und so schwer klang das gar nicht. "`Gibt's hier in der Nähe einen größeren Baum?"' fragt er den SL und der nickt. "`Da kletter ich rauf."'
@@ -486,7 +463,7 @@ So kommt folgendes Endergebenis zustande:
 \item Junge 5: 2 EP
 \item Anführer der Jungen: 1 EP
 \end {itemize}
-\onecolumn
+
 \subsubsection{Konfliktende}
 
 In der Summe haben die Dorfkinder 2 EP mehr als die SCs, sie haben 3 Sieger (die SCs keinen), nur bei den Verlierern (jeweils 2) herrscht Gleichstand. Andererseits sind 2 EP Unterschied jetzt auch keine Demütigung -- eine deutliche Überlegenheit, mehr nicht.
