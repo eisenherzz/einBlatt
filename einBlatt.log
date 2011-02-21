@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  20 FEB 2011 20:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  21 FEB 2011 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -679,22 +679,22 @@ Overfull \hbox (44.53578pt too wide) in paragraph at lines 250--262
  []
 
 [19] [20]
-Underfull \hbox (badness 10000) in paragraph at lines 321--325
+Underfull \hbox (badness 10000) in paragraph at lines 325--329
 
  []
 
 [21] [22]
-Overfull \hbox (5.10255pt too wide) in paragraph at lines 374--375
+Overfull \hbox (5.10255pt too wide) in paragraph at lines 378--379
 [][]\OT1/cmr/m/n/10.95 Ihr habt Mor-ti-mers F[]uhrung ak-zep-tiert, sonst h[]at
 te er kei-ne Kar-ten f[]ur sei-ne Anf[]uhrer-
  []
 
-[23] [24] [25]
-Underfull \hbox (badness 10000) in paragraph at lines 481--488
+[23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 485--492
 
  []
 
-) (./einBildungen/einBildungen.tex [26] [27
+[25]) (./einBildungen/einBildungen.tex [26] [27
 
 ]
 Kapitel 3.
@@ -848,10 +848,10 @@ mmons.org/licenses/by-nc-sa/3.0/de/
 
 ] (./einBlatt.aux) ) 
 Here is how much of TeX's memory you used:
- 5761 strings out of 495021
- 90218 string characters out of 1181036
- 174230 words of memory out of 3000000
- 8517 multiletter control sequences out of 15000+50000
+ 5763 strings out of 495021
+ 90249 string characters out of 1181036
+ 174283 words of memory out of 3000000
+ 8518 multiletter control sequences out of 15000+50000
  11972 words of font info for 41 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,11n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -863,9 +863,9 @@ fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
 nts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on einBlatt.pdf (61 pages, 300125 bytes).
+Output written on einBlatt.pdf (61 pages, 300693 bytes).
 PDF statistics:
- 842 PDF objects out of 1000 (max. 8388607)
- 250 named destinations out of 1000 (max. 500000)
+ 844 PDF objects out of 1000 (max. 8388607)
+ 251 named destinations out of 1000 (max. 500000)
  529 words of extra memory for PDF output out of 10000 (max. 10000000)
 
