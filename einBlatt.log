@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  27 FEB 2011 17:04
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  27 FEB 2011 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -701,7 +701,12 @@ Overfull \hbox (44.53578pt too wide) in paragraph at lines 291--303
 [][] 
  []
 
-[20] [21]
+[20]
+Overfull \hbox (31.16959pt too wide) in paragraph at lines 327--342
+[][] 
+ []
+
+[21]
 Overfull \hbox (5.10255pt too wide) in paragraph at lines 364--365
 [][]\OT1/cmr/m/n/10.95 Ihr habt Mor-ti-mers F[]uhrung ak-zep-tiert, sonst h[]at
 te er kei-ne Kar-ten f[]ur sei-ne Anf[]uhrer-
@@ -885,7 +890,7 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on einBlatt.pdf (61 pages, 302386 bytes).
+Output written on einBlatt.pdf (61 pages, 302550 bytes).
 PDF statistics:
  850 PDF objects out of 1000 (max. 8388607)
  253 named destinations out of 1000 (max. 500000)
