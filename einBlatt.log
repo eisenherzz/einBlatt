@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  27 FEB 2011 17:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  1 MAR 2011 23:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -722,40 +722,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 471--478
 ]
 Kapitel 3.
 (./einBildungen/einVerlies/einVerlies.tex
-Underfull \hbox (badness 10000) in paragraph at lines 17--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--30
-
+Overfull \hbox (20.53578pt too wide) in paragraph at lines 20--33
+[][] 
  []
 
 [28
 
-]
-Overfull \hbox (27.31874pt too wide) in paragraph at lines 52--53
+] [29]
+Overfull \hbox (27.31874pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10.95 dies f[]ur ihr Le-ben gern, schlie^^Y-lich sind sie al-le Au
 s-ge-bil-de-te In-nen-ar-chi-tek-ten/Raumausstatter,
  []
 
 
-Overfull \hbox (19.19739pt too wide) in paragraph at lines 52--53
+Overfull \hbox (19.19739pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10.95 an-de-rer-seits w[]are es f[]ur Hel-den auch si-cher eint[]o
 nig im-mer das sel-be Ver-lies zu durchk[]ammen. 
  []
 
-[29]) (./einBildungen/HalloWelt/HalloWelt.tex)
+) (./einBildungen/HalloWelt/HalloWelt.tex)
 (./einBildungen/Sorgenend/Sorgenend.tex)) (./einRichtungen/einRichtungen.tex
 [30] [31
 
@@ -875,10 +860,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5766 strings out of 495021
- 90290 string characters out of 1181036
- 174352 words of memory out of 3000000
- 8519 multiletter control sequences out of 15000+50000
+ 5768 strings out of 495021
+ 90331 string characters out of 1181036
+ 174446 words of memory out of 3000000
+ 8520 multiletter control sequences out of 15000+50000
  11972 words of font info for 41 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,11n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -890,9 +875,9 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
 cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on einBlatt.pdf (61 pages, 302550 bytes).
+Output written on einBlatt.pdf (61 pages, 303002 bytes).
 PDF statistics:
- 850 PDF objects out of 1000 (max. 8388607)
- 253 named destinations out of 1000 (max. 500000)
+ 852 PDF objects out of 1000 (max. 8388607)
+ 254 named destinations out of 1000 (max. 500000)
  529 words of extra memory for PDF output out of 10000 (max. 10000000)
 
