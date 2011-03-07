@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  1 MAR 2011 23:52
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.1.1)  7 MAR 2011 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,11 +448,7 @@ File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
 )
 (/usr/share/texmf-texlive/tex/latex/marvosym/marvosym.sty
 Package: marvosym 2006/05/11 v2.1 Martin Vogel's Symbols font definitions
-) (./einBlatt.aux
-
-LaTeX Warning: Label `tab:BeispielRunden1gegen1' multiply defined.
-
-)
+) (./einBlatt.aux)
 \openout1 = `einBlatt.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -470,7 +466,8 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 Package hyperref Info: Link coloring OFF on input line 21.
- (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
@@ -854,28 +851,24 @@ mmons.org/licenses/by-nc-sa/3.0/de/
 
  [61
 
-] (./einBlatt.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+] (./einBlatt.aux) ) 
 Here is how much of TeX's memory you used:
- 5768 strings out of 495021
- 90331 string characters out of 1181036
- 174446 words of memory out of 3000000
- 8520 multiletter control sequences out of 15000+50000
+ 5769 strings out of 495021
+ 90360 string characters out of 1181036
+ 174490 words of memory out of 3000000
+ 8521 multiletter control sequences out of 15000+50000
  11972 words of font info for 41 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  43i,11n,43p,1495b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/
-type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
-/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
-cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pf
-b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on einBlatt.pdf (61 pages, 303002 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on einBlatt.pdf (61 pages, 303119 bytes).
 PDF statistics:
  852 PDF objects out of 1000 (max. 8388607)
  254 named destinations out of 1000 (max. 500000)
