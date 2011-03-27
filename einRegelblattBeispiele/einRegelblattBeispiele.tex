@@ -287,7 +287,7 @@ Saruman & SL\\
 
 \begin{table}[H]
 \caption{Beispiel 2 (Rundenablauf)}
-\label{tab:BeispielRunden1gegen1}
+\label{tab:Beispiel2Runde}
 \begin{tabular}{|p{5cm}|p{5cm}|p{5cm}|}
 \hline
 1. Runde & 2. Runde & 3. Runde\\
@@ -342,19 +342,41 @@ Anführer der Jungen & \herz: Ass &\karo: 9, König & &\kreuz: Ass\\
 \end{table}
 Die Attributsfarbe für alle ist \kreuz.
 
-1. Runde:
-\begin {itemize}
-\item Francis: \pik-Bube
-\item Kyle: \karo-Ass
-\item Mortimer: \kreuz-8
-\item Junge 1: \karo-8
-\item Junge 2: \kreuz-10
-\item Junge 3: \herz-8
-\item Junge 4: \pik-Bube
-\item Junge 5: Farblos-7 (passt)
-\item Anführer der Jungen: \kreuz-Ass
-\end {itemize}
 
+\begin{table}[H]
+\caption{Beispiel 3 (Rundenablauf)}
+\label{tab:Beispiel3Runde}
+\begin{tabular}{|p{2cm}|p{4cm}|p{4cm}|p{4cm}|}
+\hline
+Charakter & 1.Runde & 2.Runde & 3.Runde\\
+\hline
+Francis & \pik-Bube & \pik-König & Farblos-7 (passt)\\
+Kyle & \karo-Ass & \kreuz-Dame & \kreuz-8\\
+Mortimer & \kreuz-8 & \kreuz-10 & Farblos-7 (passt)\\
+Junge 1 & \karo-8 & \pik-8 & \herz-Ass\\
+Junge 2 & \kreuz-10 & \pik-10 & \kreuz-7\\
+Junge 3 & \herz-8 & \herz-Dame & \herz-10\\
+Junge 4 & \pik-Bube & Farblos-7 (passt) & \kreuz-9\\
+Junge 5 & Farblos-7 (passt) & \pik-7 & \karo-10\\
+Anführer der Jungen & \kreuz-Ass & \karo-9 & \herz-Ass\\
+\hline
+\multicolumn{4}{|c|}{Ergebnis}\\
+\hline
+Francis & 1 EP (eine gewonnene Aktion) & 3 EP & 0 EP\\
+Kyle & -1 EP (eine verlorene Aktion) & 0 EP & -1 EP\\
+Mortimer & 1 EP (eine verlorene und zwei gewonnene Aktionen) & 1 EP & -1EP\\
+Junge 1 & -1 EP & -2 EP & -1 EP\\
+Junge 2 & 1 EP & 0 EP & 1 EP\\
+Junge 3 & -1 EP & -2 EP & -1 EP\\
+Junge 4 & -1 EP & -1 EP & 0 EP\\
+Junge 5 & 0 EP & 1 EP & 2 EP\\
+Anführer der Jungen & 1 EP & 0 EP & 1 EP\\
+\hline
+\end{tabular}
+\end{table}
+
+
+\subsubsection {zu Runde 1}
 Der Anführer gewinnt also die Initiative und wählt Kyle zu seinem Opfer. Sein \kreuz-Ass schlägt Kyles \karo-Ass, also gewinnt er einen EP, Kyle verliert einen und beide legen ihre eben verwendeten Karten ab. Als nächster ist der zweite Junge mit seiner \kreuz-10 an der Reihe -- und er greift Mortimer an. Wieder siegt der Angreifer und gewinnt einen EP, Mortimer verliert einen und beide legen ihre Karten auf den Ablagestapel. Somit hat Mortimer, der eigentlich die dritthöchste Karte gespielt hatte, nicht als nächster (oder genauer: überhaupt noch in dieser Runde) dran. Gleiches gilt für Kyle, dessen ebenfalls bereits abgelegtes \karo-Ass die vierthöchste Karte gewesen wäre. Die höchsten verbliebenen Karten sind die beiden \pik-Buben von Francis und dem vierten Jungen. Da Francis aber den höheren Attributswert hat, kommt er zuerst zum Zug.
 
 "`Wen soll Francis angreifen?"' fragt der SL Mortimers Spieler.
@@ -385,74 +407,19 @@ Nun hat Junge 3 als Einziger noch eine Karte vor sich liegen -- eine \herz-8.
 
 Mortimer antwortet mit seiner \kreuz-9, die zwar einen weiteren EP für ihn bedeutet, doch da ihm nun für die verbliebenen beiden Runden nur noch eine Karte bleibt (und auch die nur, wenn keiner seiner "`Freunde"' vorher wieder einen auf Selbstbestimmung macht), beschleicht ihn ein ungutes Gefühl\dots
 
-Der Stand nach der ersten Runde:
-\begin {itemize}
-\item Francis: 1 EP (eine gewonnene Aktion)
-\item Kyle: -1 EP (eine verlorene Aktion)
-\item Mortimer: 1 EP (eine verlorene und zwei gewonnene Aktionen)
-\item Junge 1: -1 EP
-\item Junge 2: 1 EP
-\item Junge 3: -1 EP
-\item Junge 4: -1 EP
-\item Junge 5: 0
-\item Anführer der Jungen: 1 EP
-\end {itemize}
 
-2. Runde:
-\begin {itemize}
-\item Francis: \pik-König
-\item Kyle: \kreuz-Dame
-\item Mortimer: \kreuz-10
-\item Junge 1: \pik-8
-\item Junge 2: \pik-10
-\item Junge 3: \herz-Dame
-\item Junge 4: Farblos-7 (passt)
-\item Junge 5: \pik-7
-\item Anführer der Jungen: \karo-9
-\end {itemize}
 
+
+\subsubsection {zu Runde 2}
 Nach dem Aufdecken klatschen die Spieler ab -- keiner der Jungs kann ihnen diesmal das Wasser reichen. Kyle eröffnet (auf Geheiß seines "`Anführers"' Mortimer) mit einem erfolgreichen Angriff auf den dritten Jungen, Mortimer selbst besiegt den gegnerischen Anführer und Francis die Nummer 2. Nach dieser Großoffensive haben nur noch die Jungs 1 und 5 ihre Karten vor sich liegen. Junge 1 greift Francis an, der sich aber mit seiner \herz-9 erfolgreich zur Wehr setzt, während Mortimer der \pik-7 des letzten Jungen gar keine Karte mehr entgegenzusetzen hat.
 
-Der Stand nach der zweiten Runde:
-\begin {itemize}
-\item Francis: 3 EP
-\item Kyle: 0 EP
-\item Mortimer: 1 EP
-\item Junge 1: -2 EP
-\item Junge 2: 0 EP
-\item Junge 3: -2 EP
-\item Junge 4: -1 EP
-\item Junge 5: 1 EP
-\item Anführer der Jungen: 0 EP
-\end {itemize}
 
-3. Runde:
-\begin {itemize}
-\item Francis: Farblos-7 (passt)
-\item Kyle: \kreuz-8
-\item Mortimer: Farblos-7 (passt)
-\item Junge 1: \herz-Ass
-\item Junge 2: \kreuz-7
-\item Junge 3: \herz-10
-\item Junge 4: \kreuz-9
-\item Junge 5: \karo-10
-\item Anführer der Jungen: \herz-Ass
-\end {itemize}
 
+
+\subsubsection {zu Runde 3}
 Junge 4 gewinnt die letzte Initiative und besiegt Kyle. Damit können die SCs selbst nicht mehr agieren. Von den fünf übrigen Jungs greifen 2 Mortimer und 3 Francis an, die sich beide nicht mehr wehren können.
 
-So kommt folgendes Endergebenis zustande:
-\begin {itemize}
-\item Francis: 0 EP
-\item Kyle: -1 EP
-\item Mortimer: -1 EP
-\item Junge 1: -1 EP
-\item Junge 2: 1 EP
-\item Junge 3: -1 EP
-\item Junge 4: 0 EP
-\item Junge 5: 2 EP
-\item Anführer der Jungen: 1 EP
-\end {itemize}
+
 
 \subsubsection{Konfliktende}
 
