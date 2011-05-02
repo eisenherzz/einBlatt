@@ -1,4 +1,4 @@
-![einBlattLogo](/bilder/einblatt.png "einBlattLogo")
+![einBlattLogo](bilder/einblatt.png)
 # Spiel nach Deinen Regeln
 
 
