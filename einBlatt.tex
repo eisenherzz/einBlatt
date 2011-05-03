@@ -1,15 +1,27 @@
 %einBlatt von Tempestrider & eisenherzz: Dieses Werk ist unter einem Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Germany Lizenzvertrag lizenziert. Um die Lizenz anzusehen, gehen Sie bitte zu http://creativecommons.org/licenses/by-nc-sa/3.0/de/ oder schicken Sie einen Brief an Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 \documentclass[11pt,a4paper]{scrreprt}
 \usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc} noch abzuchecken
 \usepackage{ngerman}
 \usepackage{float}
-\usepackage{hyperref}
 \usepackage{marvosym}
+\usepackage[
+  pdfauthor={Tempestrider und eisenherzz},
+  pdfcreator={Tempestrider und eisenherzz},
+  pdfsubject={einBlatt - Spiel nach Deinen Regeln},
+  pdfkeywords={noch füllen}
+  ]{hyperref}
+\usepackage{pdfpages}
 
+%Layoutdefinitionen
+
+%Definition der Kartensymbole
 \newcommand{\pik}{\ensuremath{\spadesuit}}
 \newcommand{\karo}{\ensuremath{\diamondsuit}}
 \newcommand{\herz}{\ensuremath{\heartsuit}}
 \newcommand{\kreuz}{\ensuremath{\clubsuit}}
+
+
 
 \pagestyle{headings}
 
@@ -41,6 +53,7 @@ Heldenhaftigkeit ist eine Todesart, keine Lebensart.
 \input {einGriffe/einGriffe}
 \input {zumSchluss/zumSchluss}
 \input {Lizenzinformation/Lizenzinformation}
+\includepdf[pages=1]{einCharakterBlatt/einCharakterBlatt.pdf}
 
 \listoftables
 \end{document}

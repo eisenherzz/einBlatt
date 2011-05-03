@@ -1,6 +1,4 @@
-![einBlattLogo](bilder/einblatt.png)
-# Spiel nach Deinen Regeln
-
+# einBlatt - Spiel nach Deinen Regeln
 
 einBlatt ist eine permanent wachsende RegelWerkStatt für freie Rollenspiele.
 Hier werden auf Basis von einRegelBlatt aus kleinen, wiederverwendbaren Regelmodulen ("einRichtungen") komplette Spiele ("einBildungen") gebaut.
