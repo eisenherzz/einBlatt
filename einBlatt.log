@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.28)  3 MAY 2011 23:22
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.28)  4 MAY 2011 21:12
 entering extended mode
  %&-line parsing enabled.
 **einBlatt.tex
@@ -317,15 +317,30 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texmf-texlive/tex/generic/german/ngerman.sty v2.5e 1998-07-08
-Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
-\grmnU@D=\dimen103
-ngerman -- \language number for naustrian undefined, default 4 used.
-ngerman -- \language number for French undefined, default 255 used.
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/ngermanb.ldf
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
 )
+\l@naustrian = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 92.
+))
 (/usr/share/texmf-texlive/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count89
+\c@float@type=\count90
 \float@exts=\toks17
 \float@box=\box27
 \@float@everytoks=\toks18
@@ -356,8 +371,8 @@ O)
 Package: xcolor-patch 2009/10/02 xcolor patch
 ))
 \@linkdim=\dimen104
-\Hy@linkcounter=\count90
-\Hy@pagecounter=\count91
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
@@ -385,79 +400,12 @@ Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
 Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
 t (HO)
 ))
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\grmnU@D' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\setbox' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\char' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\dimen@' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\dimen@' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\ht' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fontdimen' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\font' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\dimen@' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\accent' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fontdimen' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\font' on input line 2864.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\grmnU@D' on input line 2864.
-
 Package hyperref Info: Hyper figures OFF on input line 2975.
 Package hyperref Info: Link nesting OFF on input line 2980.
 Package hyperref Info: Hyper index ON on input line 2983.
 Package hyperref Info: Plain pages OFF on input line 2990.
 Package hyperref Info: Backreferencing OFF on input line 2995.
+
 Implicit mode ON; LaTeX internals redefined
 Package hyperref Info: Bookmarks ON on input line 3191.
 (/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
@@ -491,7 +439,7 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 )))
-\Fld@menulength=\count92
+\Fld@menulength=\count93
 \Field@Width=\dimen105
 \Fld@charsize=\dimen106
 \Field@toks=\toks19
@@ -506,14 +454,14 @@ Package hyperref Info: PDF/A mode OFF on input line 4407.
 (/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 )
-\Hy@abspage=\count93
-\c@Item=\count94
-\c@Hfootnote=\count95
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
 )
 *hyperref using default driver hpdftex*
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
-\Fld@listcount=\count96
+\Fld@listcount=\count97
 )
 (/usr/share/texmf-texlive/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
@@ -537,22 +485,22 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
-\Gread@gobject=\count97
+\Gread@gobject=\count98
 ))
 \Gin@req@height=\dimen107
 \Gin@req@width=\dimen108
 )
 (/usr/share/texmf-texlive/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count98
-\calc@Bcount=\count99
+\calc@Acount=\count99
+\calc@Bcount=\count100
 \calc@Adimen=\dimen109
 \calc@Bdimen=\dimen110
 \calc@Askip=\skip47
 \calc@Bskip=\skip48
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count100
+\calc@Ccount=\count101
 \calc@Cskip=\skip49
 )
 (/usr/share/texmf-texlive/tex/latex/eso-pic/eso-pic.sty
@@ -566,7 +514,7 @@ File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box29
 \AM@toc@title=\toks20
-\c@AM@survey=\count101
+\c@AM@survey=\count102
 \AM@templatesizebox=\box30
 ) (./einBlatt.aux)
 \openout1 = `einBlatt.aux'.
@@ -593,7 +541,7 @@ Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count102
+\c@section@level=\count103
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
@@ -605,15 +553,15 @@ LaTeX Info: Redefining \pageref on input line 33.
 \AtBeginShipoutBox=\box31
  (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count103
+\scratchcounter=\count104
 \scratchdimen=\dimen111
 \scratchbox=\box32
-\nofMPsegments=\count104
-\nofMParguments=\count105
+\nofMPsegments=\count105
+\nofMParguments=\count106
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count106
+\MPscratchCnt=\count107
 \MPscratchDim=\dimen112
-\MPnumerator=\count107
+\MPnumerator=\count108
 \everyMPtoPDFconversion=\toks22
 ) ABD: EveryShipout initializing macros
 (/usr/share/texmf-texlive/tex/latex/graphics/color.sty
@@ -623,6 +571,11 @@ Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
+)
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 35.
+
+(/usr/share/texmf-texlive/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <20.74> on input line 35.
@@ -642,61 +595,61 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] (./einBlatt.toc
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 1.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 10.
+(scrreprt)            on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 11.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 36.
+(scrreprt)            on input line 12.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 37.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 38.
  [3
 
 ]
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 46.
-Class scrreprt Info: You've told me to use the font selection of the element
-(scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 47.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 131.
+(scrreprt)            on input line 48.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 132.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 146.
+(scrreprt)            on input line 133.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 147.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
-(scrreprt)            on input line 149.
+(scrreprt)            on input line 148.
 Class scrreprt Info: You've told me to use the font selection of the element
 (scrreprt)           `sectioning' that is an alias of element `disposition'
 (scrreprt)            on input line 150.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 151.
 )
 \tf@toc=\write4
 \openout4 = `einBlatt.toc'.
 
- (./nurderAnfang/nurderAnfang.tex
-[4] [5] [6
+
+(./nurderAnfang/nurderAnfang.tex [4] [5] [6
 
 ]
 Kapitel 1.
@@ -717,9 +670,9 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
 
-Overfull \hbox (21.35704pt too wide) in paragraph at lines 33--36
-\OT1/cmr/m/n/10.95 Stimmt. Des-halb ist ein-Blatt euch ein Internet-Projekt. De
-r-zeit wird es auf www.eisenherzz.de
+Overfull \hbox (18.75018pt too wide) in paragraph at lines 33--36
+\T1/cmr/m/n/10.95 Stimmt. Des-halb ist ein-Blatt euch ein Internet-Projekt. Der
+-zeit wird es auf www.eisenherzz.de
  []
 
 [8]
@@ -742,18 +695,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--21
 [11
 
 ] [12]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 66.
- (/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 66.
-
-Overfull \hbox (11.21497pt too wide) in paragraph at lines 62--75
+Overfull \hbox (8.84267pt too wide) in paragraph at lines 62--75
 [][] 
  []
 
-[13]) (./einRegelblattBeispiele/einRegelblattBeispiele.tex
+) (./einRegelblattBeispiele/einRegelblattBeispiele.tex [13]
 Underfull \hbox (badness 10000) in paragraph at lines 20--26
 
  []
@@ -764,17 +710,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--61
  []
 
 [15]
-Overfull \hbox (48.49199pt too wide) in paragraph at lines 136--149
+Overfull \hbox (46.84407pt too wide) in paragraph at lines 136--149
 [][] 
  []
 
 [16]
-Underfull \hbox (badness 1057) in paragraph at lines 162--163
-[]\OT1/cmr/m/n/10.95 Ole (der ins-ge-heim un-ter je-dem Dach
+Underfull \hbox (badness 1259) in paragraph at lines 162--163
+[]\T1/cmr/m/n/10.95 Ole (der ins-ge-heim un-ter je-dem Dach
  []
 
 
-Overfull \hbox (57.86024pt too wide) in paragraph at lines 157--172
+Overfull \hbox (56.46419pt too wide) in paragraph at lines 157--172
 [][] 
  []
 
@@ -789,29 +735,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--210
  []
 
 [18]
-Overfull \hbox (9.05533pt too wide) in paragraph at lines 211--212
-\OT1/cmr/m/n/10.95 de-cken. l[]asst der SL al-le Spie-ler Kar-ten ent-spre-chen
-d ih-res []Wahr-neh-mung\-Attributwertes
+Overfull \hbox (2.3173pt too wide) in paragraph at lines 211--212
+\T1/cmr/m/n/10.95 de-cken. lässt der SL al-le Spie-ler Kar-ten ent-spre-chend i
+h-res ^^RWahrnehmung^^P-Attributwertes
  []
 
 
-Underfull \hbox (badness 6927) in paragraph at lines 259--259
-[]\OT1/cmr/m/n/10.95 Niemand hat At-tri-buts-far-
+Underfull \hbox (badness 1163) in paragraph at lines 259--259
+[]\T1/cmr/m/n/10.95 Niemand hat At-tri-buts-far-be
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 259--259
-\OT1/cmr/m/n/10.95 ge-spielt. Bei-de Kar-ten sind
+Underfull \hbox (badness 1163) in paragraph at lines 259--259
+[]\T1/cmr/m/n/10.95 Niemand hat At-tri-buts-far-be
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 259--259
-\OT1/cmr/m/n/10.95 gleich hoch. Al-so be-kommt
+Underfull \hbox (badness 1509) in paragraph at lines 259--259
+\T1/cmr/m/n/10.95 ge-spielt. Bei-de Kar-ten sind
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 259--260
-\OT1/cmr/m/n/10.95 er kei-ne hat). Da-mit sind
+Underfull \hbox (badness 1688) in paragraph at lines 259--259
+\T1/cmr/m/n/10.95 gleich hoch. Al-so be-kommt
  []
 
 
@@ -820,18 +766,8 @@ Overfull \hbox (44.53578pt too wide) in paragraph at lines 250--262
  []
 
 [19]
-Underfull \hbox (badness 1655) in paragraph at lines 300--300
-[]\OT1/cmr/m/n/10.95 Beide spie-len ih-re je-wei-li-ge
- []
-
-
-Underfull \hbox (badness 2478) in paragraph at lines 300--300
-\OT1/cmr/m/n/10.95 At-tri-buts-far-be. Sa-ru-mans 9
- []
-
-
-Underfull \hbox (badness 1038) in paragraph at lines 300--301
-[]\OT1/cmr/m/n/10.95 Saruman spielt nicht At-tri-
+Underfull \hbox (badness 1286) in paragraph at lines 300--301
+[]\T1/cmr/m/n/10.95 Saruman spielt nicht At-tri-
  []
 
 
@@ -840,28 +776,33 @@ Overfull \hbox (44.53578pt too wide) in paragraph at lines 291--303
  []
 
 [20]
-Overfull \hbox (31.16959pt too wide) in paragraph at lines 327--342
+Overfull \hbox (28.46588pt too wide) in paragraph at lines 327--342
 [][] 
  []
 
 [21]
 Underfull \hbox (badness 10000) in paragraph at lines 361--361
-[]\OT1/cmr/m/n/10.95 Anf[]uhrer
+[]\T1/cmr/m/n/10.95 Anführer
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 366--366
-[]\OT1/cmr/m/n/10.95 -1 EP (ei-ne ver-lo-re-ne
+Underfull \hbox (badness 1389) in paragraph at lines 366--366
+[]\T1/cmr/m/n/10.95 -1 EP (ei-ne ver-lo-re-ne
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 367--367
-[]\OT1/cmr/m/n/10.95 1 EP (ei-ne ver-lo-re-
+Underfull \hbox (badness 2903) in paragraph at lines 367--367
+[]\T1/cmr/m/n/10.95 1 EP (ei-ne ver-lo-re-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+\T1/cmr/m/n/10.95 und zwei ge-won-ne-ne
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 373--373
-[]\OT1/cmr/m/n/10.95 Anf[]uhrer
+[]\T1/cmr/m/n/10.95 Anführer
  []
 
 
@@ -870,9 +811,9 @@ Overfull \hbox (28.08301pt too wide) in paragraph at lines 349--376
  []
 
 [22]
-Overfull \hbox (5.10255pt too wide) in paragraph at lines 386--387
-[][]\OT1/cmr/m/n/10.95 Ihr habt Mor-ti-mers F[]uhrung ak-zep-tiert, sonst h[]at
-te er kei-ne Kar-ten f[]ur sei-ne Anf[]uhrer-
+Overfull \hbox (1.05003pt too wide) in paragraph at lines 386--387
+[]\T1/cmr/m/n/10.95 ^^RIhr habt Mor-ti-mers Füh-rung ak-zep-tiert, sonst hät-te
+ er kei-ne Kar-ten für sei-ne Anführer-
  []
 
 [23]
@@ -884,24 +825,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 438--445
 
 ]
 Kapitel 3.
-(./einBildungen/einVerlies/einVerlies.tex
-Overfull \hbox (0.30878pt too wide) in paragraph at lines 20--21
-[]\OT1/cmr/m/n/10.95 Au^^Yerdem wird ein f[]unf-tes At-tri-but oh-ne Fer-tig-ke
-i-ten ben[]otigt: Hel-den-haf-te Sch[]onheit.
- []
-
-[26
+(./einBildungen/einVerlies/einVerlies.tex [26
 
 ]
-Overfull \hbox (27.31874pt too wide) in paragraph at lines 50--51
-\OT1/cmr/m/n/10.95 dies f[]ur ihr Le-ben gern, schlie^^Y-lich sind sie al-le Au
-s-ge-bil-de-te In-nen-ar-chi-tek-ten/Raumausstatter,
- []
-
-
-Overfull \hbox (19.19739pt too wide) in paragraph at lines 50--51
-\OT1/cmr/m/n/10.95 an-de-rer-seits w[]are es f[]ur Hel-den auch si-cher eint[]o
-nig im-mer das sel-be Ver-lies zu durchk[]ammen. 
+Overfull \hbox (24.6852pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10.95 dies für ihr Le-ben gern, schlieÿ-lich sind sie al-le Aus-ge-
+bil-de-te In-nen-ar-chi-tek-ten/Raumausstatter,
  []
 
 [27]) (./einBildungen/HalloWelt/HalloWelt.tex)
@@ -913,7 +842,7 @@ Kapitel 4.
 
 (./einRichtungen/StandardPunkteverteilungfuerAttribute/StandardPunkteverteilung
 fuerAttribute.tex
-Overfull \hbox (10.70763pt too wide) in paragraph at lines 24--37
+Overfull \hbox (10.00009pt too wide) in paragraph at lines 24--37
 [][] 
  []
 
@@ -940,13 +869,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--17
  []
 
 [35]) (./einRichtungen/Lehrenziehen/Lehrenziehen.tex)
-(./einRichtungen/ZauberwoerterMagiesystem/ZauberwoerterMagiesystem.tex
-Overfull \hbox (1.19083pt too wide) in paragraph at lines 6--7
-[]\OT1/cmr/m/n/10.95 Es wird ein At-tri-but ben[]otigt, von dem die ma-gi-schen
- F[]ahig-kei-ten des SCs abh[]angig
- []
-
-[36] [37] [38] [39]
+(./einRichtungen/ZauberwoerterMagiesystem/ZauberwoerterMagiesystem.tex [36]
+[37] [38] [39]
 Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
  []
@@ -958,25 +882,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--115
 
 [40] [41] [42] [43])
 (./einRichtungen/einfacheFantasyAttribute/einfacheFantasyAttribute.tex [44]
-[45] [46])) (./einGriffe/einGriffe.tex [47] [48] [49
+[45] [46])) (./einGriffe/einGriffe.tex [47] [48
 
 ]
 Kapitel 5.
 (./einGriffe/sichindieKartenschauenlassen/sichindieKartenschauenlassen.tex)
 (./einGriffe/dieKartenzinken/dieKartenzinken.tex
-Overfull \hbox (32.33632pt too wide) in paragraph at lines 3--6
-\OT1/cmr/m/n/10.95 Hat sich ein SC be-son-ders gut auf einen be-vor-ste-hen-den
- Kon-flikt vor-be-rei-tet (SL-Entscheidung),
+Overfull \hbox (29.3911pt too wide) in paragraph at lines 3--6
+\T1/cmr/m/n/10.95 Hat sich ein SC be-son-ders gut auf einen be-vor-ste-hen-den 
+Kon-flikt vor-be-rei-tet (SL-Entscheidung),
  []
 
 ) (./einGriffe/nachkarten/nachkarten.tex)
-(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [50
+(./einGriffe/dieKartenwerdenneugemischt/dieKartenwerdenneugemischt.tex [49
 
 ])
 (./einGriffe/dieKartenaufdenTischlegen/dieKartenaufdenTischlegen.tex)
 (./einGriffe/einAssimAermelhaben/einAssimAermelhaben.tex)
 (./einGriffe/alleKarteninderHandhaben/alleKarteninderHandhaben.tex)
-(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [51])
+(./einGriffe/allesaufeineKartesetzen/allesaufeineKartesetzen.tex [50])
 (./einGriffe/mitoffenenKartenspielen/mitoffenenKartenspielen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
@@ -988,7 +912,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
  []
 
 ) (./einGriffe/GnadederGoetterZornderGoetter/GnadederGoetterZornderGoetter.tex
-[52] [53])) (./zumSchluss/zumSchluss.tex [54] [55
+[51] [52])) (./zumSchluss/zumSchluss.tex [53] [54
 
 ]
 Kapitel 6.
@@ -998,22 +922,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
 
-[56
+[55
 
-] [57
+] [56
 
 ]
 Kapitel 7.
 )
-Overfull \hbox (15.09119pt too wide) in paragraph at lines 4--56
-\OT1/cmr/m/n/10.95 Li-zenz an-zu-se-hen, ge-hen Sie bit-te zu http://creativeco
-mmons.org/licenses/by-nc-sa/3.0/de/
+Overfull \hbox (12.60713pt too wide) in paragraph at lines 4--56
+\T1/cmr/m/n/10.95 Li-zenz an-zu-se-hen, ge-hen Sie bit-te zu http://creativecom
+mons.org/licenses/by-nc-sa/3.0/de/
  []
 
-[58
+[57
+
+] (./einBlatt.lot)
+\tf@lot=\write5
+\openout5 = `einBlatt.lot'.
+
+ [58
 
 ]
-<einCharakterBlatt/einCharakterBlatt.pdf, id=739, page=1, 597.23125pt x 845.157
+<einCharakterBlatt/einCharakterBlatt.pdf, id=764, page=1, 597.23125pt x 845.157
 5pt>
 File: einCharakterBlatt/einCharakterBlatt.pdf Graphic file (type pdf)
  <use einCharakterBlatt/einCharakterBlatt.pdf, page 1>
@@ -1029,33 +959,31 @@ File: einCharakterBlatt/einCharakterBlatt.pdf Graphic file (type pdf)
 File: einCharakterBlatt/einCharakterBlatt.pdf Graphic file (type pdf)
 
 <use einCharakterBlatt/einCharakterBlatt.pdf, page 1> [59 <./einCharakterBlatt/
-einCharakterBlatt.pdf>] (./einBlatt.lot)
-\tf@lot=\write5
-\openout5 = `einBlatt.lot'.
-
- [60
-
-] (./einBlatt.aux) ) 
+einCharakterBlatt.pdf>] (./einBlatt.aux) ) 
 Here is how much of TeX's memory you used:
- 7191 strings out of 495021
- 111149 string characters out of 1181035
- 213924 words of memory out of 3000000
- 9890 multiletter control sequences out of 15000+50000
- 11972 words of font info for 41 fonts, out of 3000000 for 9000
+ 7566 strings out of 495021
+ 115294 string characters out of 1181035
+ 217114 words of memory out of 3000000
+ 10247 multiletter control sequences out of 15000+50000
+ 18082 words of font info for 44 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 43i,16n,43p,1495b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-bx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
-xmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/
-fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/p
-ublic/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
-nts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb></u
-sr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on einBlatt.pdf (60 pages, 379459 bytes).
+ 43i,16n,43p,1494b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/cm-
+super/cm-super-t1.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+sx2488.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on einBlatt.pdf (59 pages, 498429 bytes).
 PDF statistics:
- 878 PDF objects out of 1000 (max. 8388607)
- 256 named destinations out of 1000 (max. 500000)
+ 895 PDF objects out of 1000 (max. 8388607)
+ 255 named destinations out of 1000 (max. 500000)
  544 words of extra memory for PDF output out of 10000 (max. 10000000)
 
