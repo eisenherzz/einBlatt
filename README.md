@@ -1,4 +1,3 @@
-![einBlatt Logo](bilder/einBlattLogo.png)
 # einBlatt - Spiel nach Deinen Regeln
 
 einBlatt ist eine permanent wachsende RegelWerkStatt für freie Rollenspiele.
