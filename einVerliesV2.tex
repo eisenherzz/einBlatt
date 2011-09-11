@@ -1,0 +1,55 @@
+%einBlatt von Tempestrider & eisenherzz: Dieses Werk ist unter einem Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Germany Lizenzvertrag lizenziert. Um die Lizenz anzusehen, gehen Sie bitte zu http://creativecommons.org/licenses/by-nc-sa/3.0/de/ oder schicken Sie einen Brief an Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
+\documentclass[11pt,a4paper]{scrreprt}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{float}
+\usepackage{marvosym}
+\usepackage[
+  pdfauthor={Tempestrider und eisenherzz},
+  pdfcreator={Tempestrider und eisenherzz},
+  pdfsubject={einVerlies - Im Dungeon gibt es keine Maniküre},
+  pdfkeywords={indie, Rollenspiel, frei, open, modular}
+  ]{hyperref}
+\usepackage{pdfpages}
+
+%Layoutdefinitionen
+
+%Definition der Kartensymbole
+\newcommand{\pik}{\ensuremath{\spadesuit}}
+\newcommand{\karo}{\ensuremath{\diamondsuit}}
+\newcommand{\herz}{\ensuremath{\heartsuit}}
+\newcommand{\kreuz}{\ensuremath{\clubsuit}}
+
+
+
+\pagestyle{headings}
+
+\date{\today}
+\author{Tempestrider \& eisenherzz}
+\title{\pik \karo einBlattV2\herz \kreuz \\
+einVerlies -- Im Dungeon gibt es keine Maniküre}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Heldenhaftigkeit ist eine Todesart, keine Lebensart.
+
+-- Gabriel Laub
+
+\end{abstract}
+
+
+
+
+\tableofcontents
+
+\input {Zusammenstellungen/einVerliesV2}
+
+\listoftables
+
+\includepdf[pages=1]{einCharakterBlatt/einCharakterBlattV2.pdf}
+
+\end{document}
