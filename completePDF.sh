@@ -14,6 +14,6 @@ done
 
 for i in `ls *tex`
 do
-echo Lauf 2: erstelle $i
-tth $i
+echo XHTML: erstelle $i
+tth -w2 $i
 done
