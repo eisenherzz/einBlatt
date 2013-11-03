@@ -12,8 +12,3 @@ echo Lauf 2: erstelle $i
 pdflatex $i
 done
 
-for i in `ls *tex`
-do
-echo XHTML: erstelle $i
-tth -w2 $i
-done
